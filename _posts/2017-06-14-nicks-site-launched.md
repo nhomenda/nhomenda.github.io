@@ -4,4 +4,8 @@ title: "Nick Launches Site"
 date: 2017-06-14
 ---
 
-I finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This is the first blog post on my simple GitHub website powered by [Jekyll](http://jekyllrb.com) and using Markdown.
+
+To build it I used [Jonathan McGlone's excellent tutorial](http://jmcglone.com/guides/github-pages/).
+
+Here's a fun [Markdown tutorial](https://www.markdowntutorial.com/) too!
