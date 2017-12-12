@@ -1,3 +1,5 @@
+* {display:block;}
+
 docImprint {background: yellow;}
 
 *[rendition="center"] {text-align: center;}
