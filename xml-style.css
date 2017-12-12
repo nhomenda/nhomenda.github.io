@@ -1,16 +1,16 @@
-#center {text-align: center;}
+#center.* {text-align: center;}
 
-#x-large {font-size: 200%;}
+#x-large.*  {font-size: 200%;}
 
-#uppercase {text-transform: uppercase;}
+#uppercase.* {text-transform: uppercase;}
 
-#small {font-size: 100%;}
+#small.* {font-size: 100%;}
 
-#red {color: red;}
+#red.* {color: red;}
 
-#xx-large {font-size: 250%;}
+#xx-large.* {font-size: 250%;}
 
-#exapnded {letter-spacing: 3px;}
+#expanded.* {letter-spacing: 3px;}
 
 
 
