@@ -1,7 +1,7 @@
  <?xml version="1.0" encoding="ISO-8859-1"?>
  <?xml-stylesheet href="xml-style.css" type="text/css"?>
 
-<titlePage xmlns="http://www.tei-c.org/ns/1.0">
+<titlePage>
 <docTitle rendition="#center">
 <titlePart>
 <hi rendition="#x-large #uppercase">The Poems</hi>
