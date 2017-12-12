@@ -28,7 +28,7 @@ First Series
 <docImprint rendition="#center #uppercase">
 <pubPlace>London</pubPlace>
 <lb/>
-<publisher rendition="#red #expanded">Chatto & Windus</publisher>
+<publisher rendition="#red #expanded">Chatto &amp; Windus</publisher>
 <lb/>
 <docDate when="1904" rendition="#small"/>
 </docImprint>
