@@ -4,17 +4,17 @@ lb {line-height: 20px;}
 
 [rendition="#center"] {text-align: center;}
 
-hi[rendition="#x-large"]  {font-size: 200%;}
+[rendition="#x-large"]  {font-size: 200%;}
 
-hi[rendition="#uppercase"] {text-transform: uppercase;}
+[rendition="#uppercase"] {text-transform: uppercase;}
 
-hi[rendition="#small"] {font-size: 100%;}
+[rendition="#small"] {font-size: 100%;}
 
-hi[rendition="#red"] {color: red;}
+[rendition="#red"] {color: red;}
 
-hi[rendition="#xx-large"] {font-size: 250%;}
+[rendition="#xx-large"] {font-size: 250%;}
 
-publisher[rendition="#expanded"] {letter-spacing: 3px;}
+[rendition="#expanded"] {letter-spacing: 3px;}
 
 
 
