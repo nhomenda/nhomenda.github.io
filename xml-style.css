@@ -16,7 +16,10 @@ lb {line-height: 20px;}
 
 [rendition~="#expanded"] {letter-spacing: 3px;}
 
-docDate:empty {display:block;}
+docDate:after {
+  content: attr(when);
+  display:block;
+}
 
 space[quantity="1"] {padding:10px;}
 
