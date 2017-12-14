@@ -5,11 +5,11 @@
     <title>Business Card DOM Example 1</title>
     <script type="text/javascript">
         var parser, xmlDoc;
-        var xml = document.getElementByID("xmldata1").innerHTML; 
+        var xml = document.getElementById("xmldata1").innerHTML; 
         parser = new DOMParser();
         xmlDoc = parser.parseFromString(xml, "text/xml");      
     function citeFunction() {
-        document.getElementByID("demo").innerHTML = xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;       
+        document.getElementById("demo").innerHTML = xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;       
     }
     </script>
 </head>
