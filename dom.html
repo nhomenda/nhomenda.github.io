@@ -4,8 +4,9 @@
 <head>
     <title>Business Card DOM Example 1</title>
     <script type="text/javascript">
-    
-   
+    function citeFunction() {
+        xmlDoc.getElementsByTagName("author");      
+    }
     </script>
 </head>
 <body>
@@ -66,6 +67,6 @@
             -->
          </listBibl>
 </xml>
-    <button id="showCitationData">Show citation</button>
+    <button id="showCitationData" onclick="citeFunction()">Show citation</button>
 </body>
 </html>
