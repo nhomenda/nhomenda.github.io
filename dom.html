@@ -4,8 +4,12 @@
 <head>
     <title>Business Card DOM Example 1</title>
     <script type="text/javascript">
+        var parser, xmlDoc;
+        var xml = document.getElementsByTagName("xml")[0].innerHTML;
+        parser = new DOMParser();
+        xmlDoc = parser.parseFromString(xml, "text/xml");
     function citeFunction() {
-        xmlDoc.getElementsByTagName("author");      
+        document.getElementById("demo").innerHTML = xmlDoc.getElementsByTagName("author")[0].childNodes[0].nodeValue;       
     }
     </script>
 </head>
@@ -68,5 +72,6 @@
          </listBibl>
 </xml>
     <button id="showCitationData" onclick="citeFunction()">Show citation</button>
+    <p id="demo"></p>
 </body>
 </html>
