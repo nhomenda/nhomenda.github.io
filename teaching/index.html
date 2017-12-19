@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Teaching
+title: ILS-Z656
 ---
-<div class="blurb">
-	<h1>Teaching</h1>
-	<p>This is where you will find resources for various courses and workshops that I teach.</p>
-  <p><a href="/teaching/Z656/index.html">ILS-Z656</a></p>
-  <p>EAD Workshop: <b>TBD</b></p>
-</div><!-- /.blurb -->
+	<h1>{{ page.title }}</h1>
+	<ul class="assignments">
+
+	  {% for assignment in site.assignmentss %}
+	    <li><span>{{ assignment.date | date_to_string }}</span> » <a href="{{ assignment.url }}" title="{{ assignment.title }}">{{ assignment.title }}</a></li>
+	  {% endfor %}
+	</ul>
