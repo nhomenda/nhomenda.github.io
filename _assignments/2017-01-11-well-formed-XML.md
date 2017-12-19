@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: assignment
 title: "Creating well-formed XML documents"
 date: 2017-01-11
 ---
