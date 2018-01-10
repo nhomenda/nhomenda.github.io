@@ -50,3 +50,6 @@ ul {
 ul li {
     list-style: none;
 }
+
+/* Code */
+pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
