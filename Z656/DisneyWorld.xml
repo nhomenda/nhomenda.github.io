@@ -58,25 +58,29 @@
     </themepark>
     <themepark>
         <name>Animal Kingdom</name>
-        <ride>TriceraTop Spin</ride>
-        <ride>Primeval Whirl</ride>
-        <ride>It’s Tough to be a Bug!</ride>
-        <ride>DINOSAUR</ride>
-        <ride type="boat">Kali River Rapids</ride>
-        <ride>Kilimanjaro Safaris</ride>
-        <ride type="rollercoaster">Expedition Everest - Legend of the Forbidden Mountain</ride>
+        <rides>
+            <ride>TriceraTop Spin</ride>
+            <ride>Primeval Whirl</ride>
+            <ride>It’s Tough to be a Bug!</ride>
+            <ride>DINOSAUR</ride>
+            <ride type="boat">Kali River Rapids</ride>
+            <ride>Kilimanjaro Safaris</ride>
+            <ride type="rollercoaster">Expedition Everest - Legend of the Forbidden Mountain</ride>
+        </rides>
         <hotels>
             <hotel>Animal Kingdom Lodge</hotel>
         </hotels>
     </themepark>
     <themepark>
         <name>Hollywood Studios</name>
-        <ride>Muppet*Vision 3D</ride>
-        <ride type="rollercoaster">Rock ‘n’ Roller Coaster Starring Aerosmith</ride>
-        <ride>Star Tours — The Adventure Continues</ride>
-        <ride>Toy Story Mania!</ride>
-        <ride>The Twilight Zone Tower of Terror</ride>
-        <ride>The Great Movie Ride</ride>
+        <rides>
+            <ride>Muppet*Vision 3D</ride>
+            <ride type="rollercoaster">Rock ‘n’ Roller Coaster Starring Aerosmith</ride>
+            <ride>Star Tours — The Adventure Continues</ride>
+            <ride>Toy Story Mania!</ride>
+            <ride>The Twilight Zone Tower of Terror</ride>
+            <ride>The Great Movie Ride</ride>
+        </rides>
         <hotels>
             <hotel>All-Star</hotel>
             <hotel>Art of Animation</hotel>
