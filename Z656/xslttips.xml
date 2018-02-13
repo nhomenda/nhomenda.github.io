@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+    <head>
+        <title>Nick's XSLT Tips</title>
+    </head>
+    <body>
+        <h1>Nick's XSLT Tips: Report #357a</h1>
+        <p>Organization: Make sure to keep your templates organized and indented properly. It's hard to look through disorganized code, and the format button in Oxygen is your friend.
+        
+        Comments: Be sure to comment your code, especially when you have a complex function or template that's doing something interesting. Also consider adding comments to keep sections organized.
+        
+        Variables: I like to use variables to declare document-wide things that might be useful to use in more than one place. Think about future uses of this transformation with different source material- what would you like to reliably extract?
+        
+        Parameters: Parameters are best used within and between templates to accomplish something specific. Think of these changing their value frequently to suit a template's needs.
+        
+        Named templates: You really don't need to use these a lot, but when you do, think of them as a tool to do a certain task as opposed to the standard way to handle information at a particular point in the document.
+        
+        Troubleshooting: I try to troubleshoot iteratively- get something small to work and add to it until you arrive at your answer. This is the key to diagnosing problems in your code.
+        </p>
+    </body>
+</html>
