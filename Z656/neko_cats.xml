@@ -1,0 +1,506 @@
+<?xml-stylesheet type="text/xsl" href="cats.xsl"?>
+<neko_cats>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/04/Snowball.png</cat_picture>
+      <name>Snowball</name>
+      <color>Solid White</color>
+      <personality>Mellow</personality>
+      <power_level>80</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/2/24/Memento_snowball.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/b2/Smokey.png</cat_picture>
+      <name>Smokey</name>
+      <color>Solid Black</color>
+      <personality>Hot and Cold</personality>
+      <power_level>140</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/ce/Memento_smokey.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/b9/Spots.png</cat_picture>
+      <name>Spots</name>
+      <color>Black &amp; White</color>
+      <personality>Joker</personality>
+      <power_level>75</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/54/Memento_spots.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/8e/Shadow.png</cat_picture>
+      <name>Shadow</name>
+      <color>Solid Grey</color>
+      <personality>Peculiar</personality>
+      <power_level>50</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/19/Memento_shadow.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/9/9a/Sunny.png</cat_picture>
+      <name>Sunny</name>
+      <color>Turkish Calico</color>
+      <personality>Mischievous</personality>
+      <power_level>120</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/a/a3/Memento_sunny.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/d/d7/Fred.png</cat_picture>
+      <name>Fred</name>
+      <color>Orange Tabby</color>
+      <personality>Lady-Killer</personality>
+      <power_level>150</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/e/e9/Memento_fred.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/64/Pumpkin.png</cat_picture>
+      <name>Pumpkin</name>
+      <color>Orange &amp; White Tabby</color>
+      <personality>Spacey</personality>
+      <power_level>90</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/6d/Memento_pumpkin.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/4/4d/Callie.png</cat_picture>
+      <name>Callie</name>
+      <color>Calico</color>
+      <personality>Carefree</personality>
+      <power_level>50</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/1f/Memento_callie.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/9/9e/Tabitha.png</cat_picture>
+      <name>Tabitha</name>
+      <color>Calico Tabby</color>
+      <personality>Leisurely</personality>
+      <power_level>40</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/86/Memento_tabitha.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/1f/Bandit.png</cat_picture>
+      <name>Bandit</name>
+      <color>Tortoiseshell</color>
+      <personality>Wild at Heart</personality>
+      <power_level>180</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/e/e5/Memento_bandit.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/d/da/Gabriel.png</cat_picture>
+      <name>Gabriel</name>
+      <color>Tuxedo</color>
+      <personality>Diligent</personality>
+      <power_level>150</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f1/Memento_gabriel.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/c1/Marshmellow.png</cat_picture>
+      <name>Marshmallow</name>
+      <color>Pointed</color>
+      <personality>Aloof</personality>
+      <power_level>170</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/9/99/Memento_marshmallow.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/e/ef/Socks.png</cat_picture>
+      <name>Socks</name>
+      <color>Black w/ White Mitts</color>
+      <personality>Adventurous</personality>
+      <power_level>70</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/06/Memento_socks.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/fa/Lexy.png</cat_picture>
+      <name>Lexy</name>
+      <color>Grey &amp; White</color>
+      <personality>Expensive Tastes</personality>
+      <power_level>100</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/79/Memento_lexy.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/8e/Bolt.png</cat_picture>
+      <name>Bolt</name>
+      <color>Brown Tabby</color>
+      <personality>Insatiable</personality>
+      <power_level>140</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/3/3d/Memento_bolt.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/3/35/Breezy.png</cat_picture>
+      <name>Breezy</name>
+      <color>Brown &amp; White Tabby</color>
+      <personality>Laid Back</personality>
+      <power_level>30</power_level>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f0/Misty.png</cat_picture>
+      <name>Misty</name>
+      <color>Mackerel Tabby</color>
+      <personality>Lazy</personality>
+      <power_level>160</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/4/46/Memento_misty.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/c7/Pickles.png</cat_picture>
+      <name>Pickles</name>
+      <color>Gray &amp; White Tabby</color>
+      <personality>Faint-Hearted</personality>
+      <power_level>0</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f3/Memento_pickles.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/50/Pepper.png</cat_picture>
+      <name>Pepper</name>
+      <color>Black w/ Odd Eyes</color>
+      <personality>Shy</personality>
+      <power_level>165</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/2/21/Memento_pepper.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/8c/Patches.png</cat_picture>
+      <name>Patches</name>
+      <color>Orange Patches</color>
+      <personality>Jealous</personality>
+      <power_level>80</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/ce/Memento_patches.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f8/Gozer.png</cat_picture>
+      <name>Gozer</name>
+      <color>Tortoiseshell Tabby</color>
+      <personality>Sore Loser</personality>
+      <power_level>155</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/10/Memento_gozer.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/8d/Cocoa.png</cat_picture>
+      <name>Cocoa</name>
+      <color>Brown Tuxedo</color>
+      <personality>Indecisive</personality>
+      <power_level>45</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/50/Memento_cocoa.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f2/Princess.png</cat_picture>
+      <name>Princess</name>
+      <color>Striped Torbie</color>
+      <personality>Ditzy</personality>
+      <power_level>125</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/51/Memento_princess.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/85/Ginger.png</cat_picture>
+      <name>Ginger</name>
+      <color>Red w/ White Mitts</color>
+      <personality>Bashful</personality>
+      <power_level>60</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/c5/Memento_ginger.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/e/ef/Peaches.png</cat_picture>
+      <name>Peaches</name>
+      <color>Tan &amp; Orange</color>
+      <personality>Capricious</personality>
+      <power_level>45</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/3/3e/Memento_peaches.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/57/Spud.png</cat_picture>
+      <name>Spud</name>
+      <color>Red Tortoiseshell</color>
+      <personality>Cautious</personality>
+      <power_level>80</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/0c/Memento_spud.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/c0/Mack.png</cat_picture>
+      <name>Mack</name>
+      <color>White Mackerel</color>
+      <personality>Determined</personality>
+      <power_level>130</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/02/Memento_mack.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/78/Speckles.png</cat_picture>
+      <name>Speckles</name>
+      <color>Black Patches</color>
+      <personality>Lonely</personality>
+      <power_level>40</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/2/2a/Memento_speckles.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/1e/Willie.png</cat_picture>
+      <name>Willie</name>
+      <color>Black Tabby</color>
+      <personality>Crafty</personality>
+      <power_level>75</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/b6/Memento_willie.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/7a/Rascal.png</cat_picture>
+      <name>Rascal</name>
+      <color>Grey Tuxedo</color>
+      <personality>Selfish</personality>
+      <power_level>140</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/06/Memento_rascal.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/7b/Dottie.png</cat_picture>
+      <name>Dottie</name>
+      <color>White Calico</color>
+      <personality>Friendly</personality>
+      <power_level>195</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/69/Memento_dottie.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/88/Spooky.png</cat_picture>
+      <name>Spooky</name>
+      <color>Grey Tortoiseshell</color>
+      <personality>Reserved</personality>
+      <power_level>35</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/05/Memento_spooky.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/fc/Apricot.png</cat_picture>
+      <name>Apricot</name>
+      <color>Tan &amp; Orange Tabby</color>
+      <personality>Slacker</personality>
+      <power_level>10</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/4/4e/Apricot_memento.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/9/9d/Ganache.png</cat_picture>
+      <name>Ganache</name>
+      <color>Chocolate</color>
+      <personality>Pragmatic</personality>
+      <power_level>90</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/bd/Ganache_memento_crop.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/fd/Pasty.png</cat_picture>
+      <name>Pasty</name>
+      <color>Pastel Calico</color>
+      <personality>Innocent</personality>
+      <power_level>45</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/2/20/Memento_Pasty.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/6f/Chip.png</cat_picture>
+      <name>Chip</name>
+      <color>Cap &amp; Saddle</color>
+      <personality>Young Master</personality>
+      <power_level>60</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/a/a5/Memento_Chip_Ribbon_Hair_Band.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/b8/Tmp_30441-20161014_210026218212744.png</cat_picture>
+      <name>Macchiato</name>
+      <color>Seal Lynx</color>
+      <personality>Sourpuss</personality>
+      <power_level>115</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/67/Memento_Macchiato.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/d/d1/20161014_210104.png</cat_picture>
+      <name>Melange</name>
+      <color>Blue Lynx</color>
+      <personality>Calm</personality>
+      <power_level>15</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/72/Memento_Melange.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/c3/Chocola.png</cat_picture>
+      <name>Chocola</name>
+      <color>Chocolate Point</color>
+      <personality>Forgetful</personality>
+      <power_level>155</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/4/48/Memento_Chocola.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/b2/Willow.png</cat_picture>
+      <name>Willow</name>
+      <color>Grey Patches</color>
+      <personality>Guileless</personality>
+      <power_level>80</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f2/Willow_Memento.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/5e/Sooty.png</cat_picture>
+      <name>Sooty</name>
+      <color>Black Spots</color>
+      <personality>Whimsical</personality>
+      <power_level>65</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/2/2b/Memento_Sooty.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/73/Joe_DiMeowgio.png</cat_picture>
+      <name>Joe DiMeowgio</name>
+      <color>Baseball Jersey</color>
+      <personality>Team Player</personality>
+      <power_level>28</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/15/Memento_joedimeowgio.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/2/2d/Senor_don_gato.png</cat_picture>
+      <name>Senor Don Gato</name>
+      <color>Mustachioed</color>
+      <personality>Scheming</personality>
+      <power_level>30</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/6e/Memento_Senor_don_gato.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/15/Xerxes.png</cat_picture>
+      <name>Xerxes IX</name>
+      <color>Persian</color>
+      <personality>Regal</personality>
+      <power_level>70</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/09/Memento_xerxesix.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/76/Chair.png</cat_picture>
+      <name>Chairman Meow</name>
+      <color>Camouflage</color>
+      <personality>Boorish</personality>
+      <power_level>111</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/4/42/Memento_Chair.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/bc/Saint.png</cat_picture>
+      <name>Saint Purrtrick</name>
+      <color>Ethereal</color>
+      <personality>Awe-Inspiring</personality>
+      <power_level>222</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/06/Memento_Saint_Purrtrick.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/09/Ms_Fortune.png</cat_picture>
+      <name>Ms. Fortune</name>
+      <color>Gold</color>
+      <personality>Charismatic</personality>
+      <power_level>20</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/d/dc/Memento_msfortune.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/7e/Bob_the_Cat.png</cat_picture>
+      <name>Bob the Cat</name>
+      <color>Adventurer</color>
+      <personality>Outdoorsy</personality>
+      <power_level>40</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/a/ad/Memento_Bob_the_cat.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/1/16/Whiskers.png</cat_picture>
+      <name>Conductor Whiskers</name>
+      <color>Railway Uniform</color>
+      <personality>Vigilant</personality>
+      <power_level>50</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/65/Memento_Conductor_Whiskers.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/b0/Tabb.png</cat_picture>
+      <name>Tubbs</name>
+      <color>Fluffy</color>
+      <personality>Finicky Feaster</personality>
+      <power_level>130</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/fa/Memento_tubbs.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/ca/Meowgi.png</cat_picture>
+      <name>Mr.Meowgi</name>
+      <color>Ronin</color>
+      <personality>Mentoring</personality>
+      <power_level>250</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/b/b2/Memento_Mrmeowgi.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/c/c7/Meow.png</cat_picture>
+      <name>Lady Meow-Meow</name>
+      <color>American Shorthair</color>
+      <personality>Diva</personality>
+      <power_level>100</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/a/ab/Memento_Lady_Meow_Meow.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/fb/Guy.png</cat_picture>
+      <name>Guy Furry</name>
+      <color>Apron</color>
+      <personality>Artisan</personality>
+      <power_level>30</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/5e/Memento_Guy_furry.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/9/93/Kathmandu.png</cat_picture>
+      <name>Kathmandu</name>
+      <color>Hunting Coat</color>
+      <personality>Refined</personality>
+      <power_level>150</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f6/Memento_kathmandu.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/09/Great.png</cat_picture>
+      <name>Ramses the Great</name>
+      <color>Sphinx</color>
+      <personality>Riddler</personality>
+      <power_level>230</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/8/85/Memento_ramses.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/4/43/Sassy_Fran.png</cat_picture>
+      <name>Sassy Fran</name>
+      <color>Waitress</color>
+      <personality>Enthusiastic</personality>
+      <power_level>180</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/3/32/Memento_Sassy_fran.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/51/Billy-0.png</cat_picture>
+      <name>Billy the Kitten</name>
+      <color>Western Wear</color>
+      <personality>Nihilistic</personality>
+      <power_level>250</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/04/Memento_billy_the_kitten.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/3/3d/Frosty.png</cat_picture>
+      <name>Frosty</name>
+      <color>Straw Coat</color>
+      <personality>Sensitive</personality>
+      <power_level>5</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/5/5b/Frosty_memento.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f7/Sapphire.png</cat_picture>
+      <name>Sapphire</name>
+      <color>Classic Siamese</color>
+      <personality>Naive</personality>
+      <power_level>20</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/fb/Memento_Sapphire.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/6/63/Jeeves.png</cat_picture>
+      <name>Jeeves</name>
+      <color>Neatly Parted</color>
+      <personality>Nimble</personality>
+      <power_level>210</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/e/ec/Memento_jeeves.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/f/f1/Bengal_Jack.png</cat_picture>
+      <name>Bengal Jack</name>
+      <color>Pirate</color>
+      <personality>Reckless</personality>
+      <power_level>66</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/2/25/Memento_Bengal_Jack_Old_Map.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/9/9d/Whiteshadow.png</cat_picture>
+      <name>Whiteshadow</name>
+      <color>Ninja Costume</color>
+      <personality>Elusive</personality>
+      <power_level>195</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/7/73/Memento_Whiteshadow.png</memento_picture>
+   </cat_record>
+   <cat_record>
+      <cat_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/0/0b/Hermeowne.png</cat_picture>
+      <name>Hermeowne</name>
+      <color>Pointed Hat</color>
+      <personality>Gentle</personality>
+      <power_level>200</power_level>
+      <memento_picture>https://vignette.wikia.nocookie.net/nekoatsume/images/d/db/Memento_Hermeowne.png</memento_picture>
+   </cat_record>
+</neko_cats>
