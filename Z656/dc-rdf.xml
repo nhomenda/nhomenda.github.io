@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/">
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/94">
+<dcterms:title>
+<![CDATA[ Go for the gold! ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Scholarships ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[ Production poster for Go for the gold!. ]]>
+</dcterms:description>
+<dcterms:contributor>
+<![CDATA[ Arts Scholarships ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00031 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/93">
+<dcterms:title>
+<![CDATA[ Do It Till It Hurts ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Theaters ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[ Production poster for Do It Till It Hurts. ]]>
+</dcterms:description>
+<dcterms:contributor>
+<![CDATA[ Arts Scholarships ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00030 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/92">
+<dcterms:title>
+<![CDATA[ The North Pole I Have Charted by Anson Campbell ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Theaters ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[
+Production poster for The North Pole I Have Charted by Anson Campbell.
+]]>
+</dcterms:description>
+<dcterms:contributor>
+<![CDATA[ Theatre Arts - University Theatre ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[
+The Department of Performing Arts and Communications
+]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00029 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/91">
+<dcterms:title>
+<![CDATA[
+The Effect of Gamma Rays on Man-in-the-moon Marigolds
+]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Theaters ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[
+Production poster for The Effect of Gamma Rays on Man-in-the-moon Marigolds.
+]]>
+</dcterms:description>
+<dcterms:contributor>
+<![CDATA[ Theatre Arts - University Theatre ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00028 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/90">
+<dcterms:title>
+<![CDATA[ Open House ]]>
+</dcterms:title>
+<dcterms:title>
+<![CDATA[
+Auditions for The Two Gentlemen of Verona by Shakespeare, Threads by Bolt, Getting Out by Pinter
+]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Auditions ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[
+Production poster for Open House. Auditions for The Two Gentlemen of Verona by Shakespeare, Threads by Bolt, Getting Out by Pinter.
+]]>
+</dcterms:description>
+<dcterms:date>
+<![CDATA[ 1983-09-26/1983-09-27/1983-09-28 ]]>
+</dcterms:date>
+<dcterms:contributor>
+<![CDATA[ Theatre Arts - University Theatre ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00027 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/89">
+<dcterms:title>
+<![CDATA[ Basically Baroque ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Choirs (Music) ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[ Production poster for Basically Baroque. ]]>
+</dcterms:description>
+<dcterms:date>
+<![CDATA[ 1988-10-14 ]]>
+</dcterms:date>
+<dcterms:contributor>
+<![CDATA[ Music Department of Virginia Tech ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[
+The Department of Performing Arts and Communications
+]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00026 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/88">
+<dcterms:title>
+<![CDATA[ Quartet for Three by Noa Ain ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Theaters ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[
+Production poster for Quartet for Three by Noa Ain.
+]]>
+</dcterms:description>
+<dcterms:date>
+<![CDATA[ 1984-02-28/1984-03-03 ]]>
+</dcterms:date>
+<dcterms:contributor>
+<![CDATA[ Theatre Arts - University Theatre ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00025 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/87">
+<dcterms:title>
+<![CDATA[ Adagio Con Variazioni ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Symphonies ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[ Production poster for Adagio Con Variazioni. ]]>
+</dcterms:description>
+<dcterms:contributor>
+<![CDATA[ University Orchestra ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[
+The Department of Performing Arts and Communications
+]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ New River Valley Symphony ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00024 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/86">
+<dcterms:title>
+<![CDATA[ Step on a Crack by Suzan Zeder ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Theaters ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[
+Production poster for Step on a Crack by Suzan Zeder.
+]]>
+</dcterms:description>
+<dcterms:contributor>
+<![CDATA[ Theatre Arts - University Theatre ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00023 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://drs.vtlibraries.net/testOmeka/admin/items/show/85">
+<dcterms:title>
+<![CDATA[ A Flea in Her Ear: A Hilarious Farge ]]>
+</dcterms:title>
+<dcterms:subject>
+<![CDATA[ Theaters ]]>
+</dcterms:subject>
+<dcterms:subject>
+<![CDATA[ Virginia ]]>
+</dcterms:subject>
+<dcterms:description>
+<![CDATA[
+Production poster for A Flea in Her Ear: A Hilarious Farge.
+]]>
+</dcterms:description>
+<dcterms:contributor>
+<![CDATA[ Theatre Arts - University Theatre ]]>
+</dcterms:contributor>
+<dcterms:contributor>
+<![CDATA[ Virginia Tech University Libraries ]]>
+</dcterms:contributor>
+<dcterms:rights>
+<![CDATA[ http://rightsstatements.org/page/InC-EDU/1.0/ ]]>
+</dcterms:rights>
+<dcterms:relation>
+<![CDATA[ Squires Theatre Archives ]]>
+</dcterms:relation>
+<dcterms:format>
+<![CDATA[ posters ]]>
+</dcterms:format>
+<dcterms:format>
+<![CDATA[ image/jpeg ]]>
+</dcterms:format>
+<dcterms:language>
+<![CDATA[ eng ]]>
+</dcterms:language>
+<dcterms:type>
+<![CDATA[ image ]]>
+</dcterms:type>
+<dcterms:identifier>
+<![CDATA[ SQI_PO_00022 ]]>
+</dcterms:identifier>
+<dcterms:coverage>
+<![CDATA[
+Blacksburg, Montgomery county, Virginia, United States
+]]>
+</dcterms:coverage>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu/dplava/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava/v1 dplava.xsd">
+
+    <dcterms:title>The Golden Lantern by M.K. Stewart and Rebecca Franklin</dcterms:title>
+    <dcterms:subject>Theaters</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Abingdon</dcterms:subject>
+    <dcterms:description>Production poster for The Golden Lantern.</dcterms:description>
+    <dcterms:creator>Barter Theatre</dcterms:creator>
+    <dcterms:creator>Porterfield, Robert, 1905-1971</dcterms:creator>
+    <dcterms:creator>Stewart, M. K.</dcterms:creator>
+    <dcterms:creator>Franklin, Rebecca</dcterms:creator>
+    <dcterms:publisher>Barter Theatre</dcterms:publisher>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rights>The original object is the property of the Barter Theatre in Abingdon, VA (https://www.bartertheatre.com/).
+    This digital surrogate is made publicly available by the Barter Theatre for use in research, teaching, private study, and other educational purposes. Responsibility for any use of these materials rests exclusively with the user. When using this item, users should give proper credit to the owner of the original object as well as to Virginia Tech Libraries.</dcterms:rights>
+    <dcterms:format>1 poster</dcterms:format>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:provenance>Virginia Tech University Libraries</dcterms:provenance>
+    <dcterms:type>image</dcterms:type>
+    <dcterms:spatial>United States — Virginia — Washington County — Abingdon</dcterms:spatial>
+    <edm:preview>http://di.lib.vt.edu/files/original/e9b3a9e337beb420d87a455cb4bad256.jpg</edm:preview>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/1</edm:isShownAt>
+</mdRecord>
