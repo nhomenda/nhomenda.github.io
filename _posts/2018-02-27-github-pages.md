@@ -181,4 +181,5 @@ layout: feed
 	&lbrace;&percnt; endfor &percnt;&rbrace;
 
 &lt;/feed&gt;</code></pre>
+<p><a href="https://guides.github.com">A helpful resource on all things GitHub</a></p>
 </div><!-- /.blurb -->
