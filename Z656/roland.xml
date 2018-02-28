@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruments manufacturer="roland">
+    <family type="monosynth">
+        <instrument>
+            <name>SH-101</name>
+        </instrument>
+        <instrument>
+            <name>TB-303</name>
+        </instrument>
+    </family>
+    <family type="polysynth">
+        <instrument>
+            <name>Juno-60</name>
+        </instrument>
+        <instrument>
+            <name>Jupiter-8</name>
+        </instrument>
+    </family>
+    <family type="drum_machine">
+        <instrument>
+            <name>TR-808</name>
+        </instrument>
+        <instrument>
+            <name>TR-909</name>
+        </instrument>
+    </family>
+</instruments>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruments manufacturer="roland">
+    <family type="monosynth">
+        <instrument>
+            <name>SH-101</name>
+            <description>The Roland SH-101 is a great single oscillator monosynth with mixable waveforms and a simple sequencer, heard throughout the music of Aphex Twin, Boards of Canada, and countless others.</description>
+        </instrument>
+        <instrument>
+            <name>TB-303</name>
+            <description>The Roland TB-303 is a single oscillator bass monosynth coupled with a simple sequencer that is the foundation of acid house music and on modern hits like "Da Funk" by Daft Punk.</description>
+        </instrument>
+    </family>
+    <family type="polysynth">
+        <instrument>
+            <name>Juno-60</name>
+            <description>The Roland Juno-60 is a polysynth with six digitally-controlled oscillators and fantastic onboard chorus, head on such hits as "Last Christmas" by George Michael and "All Through the Night" by Cyndi Lauper.</description>
+        </instrument>
+        <instrument>
+            <name>Jupiter-8</name>
+            <description>Widely considered to be the finest analog polysynth ever made, the Roland Jupiter 8 contains eight discrete voltage controlled oscillators and is head on hits like "Forever Young" by Alphaville, "It's My Life" by Talk Talk, and "Sexual Healing" by Marvin Gaye.</description>
+        </instrument>
+    </family>
+    <family type="drum_machine">
+        <instrument>
+            <name>TR-808</name>
+            <description>The Roland TR-808 is the quintessential analog drum machine, heard on nearly every hip hop track ever.</description>
+        </instrument>
+        <instrument>
+            <name>TR-909</name>
+            <description>The Roland TR-909 is an advanced drum machine combining analog sounds and samples, and is heavily used in techno music and by artists such as Daft Punk.</description>
+        </instrument>
+    </family>
+</instruments>

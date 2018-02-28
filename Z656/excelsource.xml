@@ -1,0 +1,1483 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Homenda, Nicholas Mark</Author>
+  <LastAuthor>Homenda, Nicholas Mark</LastAuthor>
+  <Created>2017-02-16T16:47:27Z</Created>
+  <LastSaved>2017-02-16T16:47:27Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12300</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0563C1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s17">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s18" ss:Parent="s16">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="234" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="426" ss:Span="2"/>
+   <Row>
+    <Cell><Data ss:Type="String">name</Data></Cell>
+    <Cell><Data ss:Type="String">URL</Data></Cell>
+    <Cell><Data ss:Type="String">institution</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">1890: A Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://www.uco.edu/la/english/1890"><Data
+      ss:Type="String">https://www.uco.edu/la/english/1890</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Central Oklahoma</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Aeolus</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://aeolus.scholasticahq.com/"><Data
+      ss:Type="String">https://aeolus.scholasticahq.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">New College of Florida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Agora Papers</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.agorajournal.org/"><Data
+      ss:Type="String">http://www.agorajournal.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Lynchburg College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Aleph: UCLA Undergraduate Research Journal for Humanities and Social Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://aleph.humanities.ucla.edu/"><Data
+      ss:Type="String">http://aleph.humanities.ucla.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">UCLA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Alpenglow</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.binghamton.edu/undergraduate-research-journal/"><Data
+      ss:Type="String">http://www.binghamton.edu/undergraduate-research-journal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Binghamton University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">American Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.ajuronline.org/"><Data
+      ss:Type="String">http://www.ajuronline.org/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Anemoi</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://anemoijournal.com/"><Data
+      ss:Type="String">http://anemoijournal.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">New College of Florida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Anthos</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://pdxscholar.library.pdx.edu/anthos/"><Data
+      ss:Type="String">http://pdxscholar.library.pdx.edu/anthos/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Portland State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">ANTHROJOURNAL: The Collegiate Journal of Anthropology</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://anthrojournal.com/"><Data
+      ss:Type="String">http://anthrojournal.com/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Apollon: The Undergraduate e-Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://apollonejournal.org/"><Data
+      ss:Type="String">http://apollonejournal.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Berea College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Armstrong Undergraduate Journal of History</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.armstrong.edu/Initiatives/history_journal/history_journal_welcome"><Data
+      ss:Type="String">http://www.armstrong.edu/Initiatives/history_journal/history_journal_welcome</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Armstrong State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Auctus</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.auctus.vcu.edu/"><Data
+      ss:Type="String">http://www.auctus.vcu.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Virginia Commonwealth University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">AUJUS: Auburn University Journal of Undergraduate Scholarship</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.auburn.edu/aujus"><Data
+      ss:Type="String">http://www.auburn.edu/aujus</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Auburn University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Baldwin-Wallace College Journal of Research and Creative Studies</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.bw.edu/resources/dean/fscs/jrcs/"><Data
+      ss:Type="String">http://www.bw.edu/resources/dean/fscs/jrcs/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Baldwin-Wallace College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Berkeley Scientific Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://bsj.berkeley.edu/?page_id=546"><Data
+      ss:Type="String">http://bsj.berkeley.edu/?page_id=546</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, Berkeley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Berkeley Undergraduate Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://learning.berkeley.edu/buj/"><Data
+      ss:Type="String">http://learning.berkeley.edu/buj/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, Berkeley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">BIOS</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.tri-beta.org/bios.html"><Data
+      ss:Type="String">http://www.tri-beta.org/bios.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Beta Beta Beta, National Biological Honor Society</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Butler Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.butler.edu/bjur/"><Data
+      ss:Type="String">http://digitalcommons.butler.edu/bjur/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Butler University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Caltech Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://curj.caltech.edu/"><Data
+      ss:Type="String">http://curj.caltech.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">California Institute of Technology</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Canadian Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.uroubc.ca/cjur/"><Data
+      ss:Type="String">http://www.uroubc.ca/cjur/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Caravel Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://caravel.sc.edu/"><Data ss:Type="String">http://caravel.sc.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of South Carolina</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Carthage Vanguard</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://www.carthage.edu/vanguard/"><Data
+      ss:Type="String">https://www.carthage.edu/vanguard/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Carthage College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Catalyst: Rice Undergraduate Science &amp; Engineering Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://catalyst.rice.edu/"><Data
+      ss:Type="String">http://catalyst.rice.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Rice University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbia Undergraduate Journal of History</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://cujh.columbia.edu/"><Data
+      ss:Type="String">http://cujh.columbia.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbia University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbia Undergraduate Science Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://cusj.columbia.edu/"><Data
+      ss:Type="String">http://cusj.columbia.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbia University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Consilience, The Journal of Sustainability Development</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.consiliencejournal.org/"><Data
+      ss:Type="String">http://www.consiliencejournal.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbia University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Corinthian</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://corinthian.gcsu.edu/"><Data
+      ss:Type="String">https://corinthian.gcsu.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Georgia College and State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Critical Theory and Social Justice Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scholar.oxy.edu/ctsj/"><Data
+      ss:Type="String">http://scholar.oxy.edu/ctsj/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Occidental College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Crossing Borders: A Multidisciplinary Journal of Undergraduate Scholarship</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://newprairiepress.org/crossingborders/"><Data
+      ss:Type="String">http://newprairiepress.org/crossingborders/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kansas State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">DePaul Discoveries</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://via.library.depaul.edu/depaul-disc/"><Data
+      ss:Type="String">http://via.library.depaul.edu/depaul-disc/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">DePaul University College of Science and Health</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Digital America</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.digitalamerica.org/"><Data
+      ss:Type="String">http://www.digitalamerica.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Richmond</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Digital Literature Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://bsu.edu/dlr"><Data ss:Type="String">http://bsu.edu/dlr</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ball State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Digital Spectrum</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://johnjay.digication.com/digital_spectrum"><Data
+      ss:Type="String">https://johnjay.digication.com/digital_spectrum</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">John Jay College of Criminal Justice/CUNY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">DISCOVER: Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.usu.edu/urj/"><Data
+      ss:Type="String">http://digitalcommons.usu.edu/urj/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Utah State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">DISCOVERY</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://arkansasagnews.uark.edu/397.htm"><Data
+      ss:Type="String">http://arkansasagnews.uark.edu/397.htm</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of Arkansas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Discovery: Georgia State University Honors College Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scholarworks.gsu.edu/discovery/"><Data
+      ss:Type="String">http://scholarworks.gsu.edu/discovery/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Georgia State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Discussions Website</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://case.edu/discussions/"><Data
+      ss:Type="String">http://case.edu/discussions/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Case Western Reserve University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">DUJOUR (Dillard University Journal of Undergraduate Research)</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.dillard.edu/images/stories/food/dujourfall2010.pdf"><Data
+      ss:Type="String">http://www.dillard.edu/images/stories/food/dujourfall2010.pdf</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Dillard University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">DUJS Homepage</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://dujs.dartmouth.edu/"><Data
+      ss:Type="String">http://dujs.dartmouth.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Dartmouth College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Duluth Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://d.umn.edu/lib/d-commons/libpub/journals/DJUR/"><Data
+      ss:Type="String">http://d.umn.edu/lib/d-commons/libpub/journals/DJUR/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Minnesota Duluth</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Edinburgh Napier Journal of Finance &amp; Economics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://napierjfe.com/"><Data ss:Type="String">http://napierjfe.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Edinburgh Napier University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Elements</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.bc.edu/research/elements/"><Data
+      ss:Type="String">http://www.bc.edu/research/elements/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Boston College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Elon Journal of Undergraduate Research in Communications</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.elon.edu/e-web/academics/communications/research/"><Data
+      ss:Type="String">http://www.elon.edu/e-web/academics/communications/research/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Elon University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Emory Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://scholarblogs.emory.edu/eurj/"><Data
+      ss:Type="String">https://scholarblogs.emory.edu/eurj/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Emory University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Epistimi</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.capital.edu/epistimi/"><Data
+      ss:Type="String">http://www.capital.edu/epistimi/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Capital University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">EVOS Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://evostudies.org/evos-journal/"><Data
+      ss:Type="String">http://evostudies.org/evos-journal/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Explorations</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://explorations.tamu.edu/"><Data
+      ss:Type="String">http://explorations.tamu.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Texas A&amp;M University-College Station</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Explorations</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://uncw.edu/csurf/Explorations/explorations.html"><Data
+      ss:Type="String">http://uncw.edu/csurf/Explorations/explorations.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of North Carolina Wilmington</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">FAU Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://journals.fcla.edu/faurj"><Data
+      ss:Type="String">http://journals.fcla.edu/faurj</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Florida Atlantic University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Fine Focus</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://finefocus.org/"><Data ss:Type="String">http://finefocus.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ball State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">First-Gen Voices</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.lmu.edu/fgv/"><Data
+      ss:Type="String">http://digitalcommons.lmu.edu/fgv/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Loyola Marymount University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Forbes &amp; Fifth</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://forbes5.pitt.edu/"><Data
+      ss:Type="String">http://forbes5.pitt.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Pittsburgh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">forsch! studentisches Online-Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://openjournal.uni-oldenburg.de/index.php/forsch/index"><Data
+      ss:Type="String">http://openjournal.uni-oldenburg.de/index.php/forsch/index</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Carl von Ossietzky University Oldenburg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Foundations</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://web1.johnshopkins.edu/foundations/"><Data
+      ss:Type="String">http://web1.johnshopkins.edu/foundations/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">John Hopkins Univeristy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Furman University Electronic Journal of Undergraduate Mathematics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://math.furman.edu/~mwoodard/fuejum/welcome.html"><Data
+      ss:Type="String">http://math.furman.edu/~mwoodard/fuejum/welcome.html</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">gmreview.gmu.edu</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://gmreview.gmu.edu/"><Data
+      ss:Type="String">http://gmreview.gmu.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">George Mason University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Grand Valley Journal of History</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scholarworks.gvsu.edu/gvjh/"><Data
+      ss:Type="String">http://scholarworks.gvsu.edu/gvjh/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Grand Valley State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Harf Facebook Page</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.facebook.com/harfjournal"><Data
+      ss:Type="String">http://www.facebook.com/harfjournal</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">McGill University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Harvard Political Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://hpronline.org/"><Data ss:Type="String">http://hpronline.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Harvard University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">History Matters: An Undergraduate Journal of Historical Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://historymatters.appstate.edu/"><Data
+      ss:Type="String">http://historymatters.appstate.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Appalachian State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">https://erisjournal.com/</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://erisjournal.com/"><Data
+      ss:Type="String">https://erisjournal.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vrije Universiteit (VU) Amsterdam</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">IJSRA Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.ijsra.org/"><Data ss:Type="String">http://www.ijsra.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Unaffiliated</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Illumin</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://illumin.usc.edu/"><Data ss:Type="String">http://illumin.usc.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of Southern California</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Imponderabilia</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://imponderabilia.socanth.cam.ac.uk/"><Data
+      ss:Type="String">http://imponderabilia.socanth.cam.ac.uk/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of Cambridge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Impulse: An Undergraduate Journal for Neuroscience</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://impulse.appstate.edu/"><Data
+      ss:Type="String">http://impulse.appstate.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Appalachian State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">INQUIRE Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://repository.asu.edu/collections/235"><Data
+      ss:Type="String">https://repository.asu.edu/collections/235#</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Arizona State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Inquiries Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.inquiriesjournal.com/"><Data
+      ss:Type="String">http://www.inquiriesjournal.com/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Inquiro</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.uab.edu/undergraduateresearch/"><Data
+      ss:Type="String">http://www.uab.edu/undergraduateresearch/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Alabama at Birmingham</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Inquiry Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.unh.edu/inquiryjournal/"><Data
+      ss:Type="String">http://www.unh.edu/inquiryjournal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of New Hampshire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Inquiry: The University of Arkansas Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://inquiry.uark.edu/"><Data
+      ss:Type="String">http://inquiry.uark.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Arkansas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Insights</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.hamilton.edu/levitt/insights-undergraduate-journal/home"><Data
+      ss:Type="String">http://www.hamilton.edu/levitt/insights-undergraduate-journal/home</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Hamilton College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.math.hmc.edu/interface/"><Data
+      ss:Type="String">http://www.math.hmc.edu/interface/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Harvey Mudd College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">International Collegiate Science Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://icsjournal.org/"><Data ss:Type="String">http://icsjournal.org/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">International Journal of Exercise Science</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.wku.edu/ijes/"><Data
+      ss:Type="String">http://digitalcommons.wku.edu/ijes/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">International Journal of Undergraduate Research and Creative Activities</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://commons.pacificu.edu/ijurca/"><Data
+      ss:Type="String">http://commons.pacificu.edu/ijurca/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Pacific Univeristy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Intersect: The Stanford Journal of Science, Technology and Society</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://ojs.stanford.edu/ojs/index.php/intersect"><Data
+      ss:Type="String">http://ojs.stanford.edu/ojs/index.php/intersect</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Stanford Univeristy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Intersections</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://depts.washington.edu/chid/intersections_Spring_2012/index.html"><Data
+      ss:Type="String">http://depts.washington.edu/chid/intersections_Spring_2012/index.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Washington</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Interstate - Journal of International Affairs</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.aber.ac.uk/en/interpol/current-students/undergraduate/interstate/"><Data
+      ss:Type="String">http://www.aber.ac.uk/en/interpol/current-students/undergraduate/interstate/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Aberystwyth University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Inventio</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://inventio.cua.edu/about.cfm"><Data
+      ss:Type="String">http://inventio.cua.edu/about.cfm</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Catholic University of America</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Involve - A Journal of Mathematics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://msp.berkeley.edu/involve/about/cover/cover.html"><Data
+      ss:Type="String">http://msp.berkeley.edu/involve/about/cover/cover.html</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Issues in Politcal Economy</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.elon.edu/e-web/students/ipe/default.xhtml"><Data
+      ss:Type="String">http://www.elon.edu/e-web/students/ipe/default.xhtml</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Elon University &amp; Mary Washington University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Jackson School Journal of International Studies</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://depts.washington.edu/jsjweb/"><Data
+      ss:Type="String">http://depts.washington.edu/jsjweb/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Washington</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">James Madison Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.jmu.edu/jmurj/index.shtml"><Data
+      ss:Type="String">http://www.jmu.edu/jmurj/index.shtml</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">James Madison University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">JEMI+</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://jemi.microbiology.ubc.ca/"><Data
+      ss:Type="String">http://jemi.microbiology.ubc.ca/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of British Columbia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">JOSHUA: Journal of Science and Health at the University of Alabama</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.bama.ua.edu/~joshua/"><Data
+      ss:Type="String">http://www.bama.ua.edu/~joshua/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of Alabama</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal for Undergraduate Ethnography</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://undergraduateethnography.org/"><Data
+      ss:Type="String">http://undergraduateethnography.org/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal for Undergraduate Research Opportunities</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://curo.uga.edu/juro"><Data
+      ss:Type="String">http://curo.uga.edu/juro</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Univeristy of Georgia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Integrated Social Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.jiss.org/"><Data ss:Type="String">http://www.jiss.org/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Interpersonal Relations, Intergroup Relations and Identity</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://jiriri.ca/"><Data ss:Type="String">http://jiriri.ca/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Université de Montréal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Politics and Society</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.helvidius.org/"><Data
+      ss:Type="String">http://www.helvidius.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbia University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Psychological Inquiry</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.fhsu.edu/psych/JPI/"><Data
+      ss:Type="String">http://www.fhsu.edu/psych/JPI/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Fort Hays State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Psychology and Behavioral Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://view.fdu.edu/default.aspx?id=784"><Data
+      ss:Type="String">http://view.fdu.edu/default.aspx?id=784</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Fairleigh Dickinson College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Purdue Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://docs.lib.purdue.edu/jpur/"><Data
+      ss:Type="String">http://docs.lib.purdue.edu/jpur/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Purdue University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Student Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.jofsr.com/index.php/path"><Data
+      ss:Type="String">http://www.jofsr.com/index.php/path</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Student Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.stu.edu/jsr"><Data ss:Type="String">http://www.stu.edu/jsr</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">St. Thomas University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Chemistry Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.vmi.edu/content.aspx?id=2150"><Data
+      ss:Type="String">http://www.vmi.edu/content.aspx?id=2150</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Virginia Military Institute</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Ethnic Minority Psychology</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.juempsychology.com/"><Data
+      ss:Type="String">http://www.juempsychology.com/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Kinesiology Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://minds.wisconsin.edu/handle/1793/23588"><Data
+      ss:Type="String">http://minds.wisconsin.edu/handle/1793/23588</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Wisconsin- Eau Claire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.mnsu.edu/urc/journal/"><Data
+      ss:Type="String">http://www.mnsu.edu/urc/journal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Minnesota State University, Mankato</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://sa.rochester.edu/jur/index.html"><Data
+      ss:Type="String">http://sa.rochester.edu/jur/index.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Rochester</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.clas.ufl.edu/jur/"><Data
+      ss:Type="String">http://www.clas.ufl.edu/jur/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of Florida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Research and Creative Expression of NYIT</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.nyit.edu/arts_and_sciences/jource/"><Data
+      ss:Type="String">http://www.nyit.edu/arts_and_sciences/jource/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">New York Institute of Technology</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Research and Scholarly Excellence</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://jur.colostate.edu/"><Data
+      ss:Type="String">http://jur.colostate.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Colorado State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Research in Physics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.jurp.org/"><Data ss:Type="String">http://www.jurp.org/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Undergraduate Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.hcs.harvard.edu/~jus/home.html"><Data
+      ss:Type="String">http://www.hcs.harvard.edu/~jus/home.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Harvard University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Journal of Young Investigators</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.jyi.org/"><Data ss:Type="String">http://www.jyi.org/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">JUR Press</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://jur.colostate.edu/"><Data
+      ss:Type="String">http://jur.colostate.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Colorado State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kaleidoscope</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://uknowledge.uky.edu/kaleidoscope/"><Data
+      ss:Type="String">http://uknowledge.uky.edu/kaleidoscope/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Kentucky</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Learning &amp; Teaching: The International Journal of Higher Education in the Social Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://journals.berghahnbooks.com/ltss/index.php?pg=home"><Data
+      ss:Type="String">http://journals.berghahnbooks.com/ltss/index.php?pg=home</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Lethbridge Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.lurj.org/"><Data ss:Type="String">http://www.lurj.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Lethbridge Univeristy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Lucerna Honors Program</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://cas.umkc.edu/honors/lucerna.asp#content"><Data
+      ss:Type="String">https://cas.umkc.edu/honors/lucerna.asp#content</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Missouri-Kansas City</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Madison Journal of Literary Criticism</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://english.wisc.edu/TheMJLC/"><Data
+      ss:Type="String">http://english.wisc.edu/TheMJLC/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Wisconsin-Madison</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Mapping Politics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.mappingpolitics.ca/"><Data
+      ss:Type="String">http://www.mappingpolitics.ca/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Memorial University of Newfoundland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Metamorphosis</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://coplac.org/publications/metamorphosis/"><Data
+      ss:Type="String">http://coplac.org/publications/metamorphosis/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Council of Public Liberal Arts Colleges</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Michigan Journal of Business</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://michiganjb.org/"><Data ss:Type="String">http://michiganjb.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Michigan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Michigan Journal of Political Science</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://mjps.org/"><Data ss:Type="String">http://mjps.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Michigan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Midwest Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://research.monm.edu/mjur"><Data
+      ss:Type="String">http://research.monm.edu/mjur</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Monmouth College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Missouri Journal of Mathematical Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.ucmo.edu/math-cs/journal/"><Data
+      ss:Type="String">http://www.ucmo.edu/math-cs/journal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Central Missouri</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">MIT Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://murj.mit.edu/index.php"><Data
+      ss:Type="String">http://murj.mit.edu/index.php</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Massachusetts Institute of Technology</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Modern Psychological Studies</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://modernpsychologicalstudies.weebly.com/"><Data
+      ss:Type="String">http://modernpsychologicalstudies.weebly.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Tennessee at Chattanooga</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Momentum</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://momentum.columbusstate.edu/"><Data
+      ss:Type="String">http://momentum.columbusstate.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbus State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Morehead Electronic Journal of Applicable Mathematics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.moreheadstate.edu/mejam/"><Data
+      ss:Type="String">http://www.moreheadstate.edu/mejam/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Morehead State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">National Undergraduate Research Clearinghouse</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.webclearinghouse.net/"><Data
+      ss:Type="String">http://www.webclearinghouse.net/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Missouri Western State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Northwestern Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://groups.northwestern.edu/nurj/index.php"><Data
+      ss:Type="String">http://groups.northwestern.edu/nurj/index.php</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Northwestern University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">On Our Terms</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://onourterms.barnard.edu/"><Data
+      ss:Type="String">http://onourterms.barnard.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Barnard College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Online Journal for Undergraduate Research in the Marine and Aquatic Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://sites.google.com/site/marscijournal/"><Data
+      ss:Type="String">https://sites.google.com/site/marscijournal/</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Oshkosh Scholar</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://www.uwosh.edu/osscap/present/oshkosh-scholar"><Data
+      ss:Type="String">https://www.uwosh.edu/osscap/present/oshkosh-scholar</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Wisconsin Oshkosh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">OUR Journal - Oregon Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://ourj.uoregon.edu/"><Data
+      ss:Type="String">http://ourj.uoregon.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Oregon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Papers &amp; Publications: Interdisciplinary Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.northgeorgia.edu/papersandpubs/"><Data
+      ss:Type="String">http://digitalcommons.northgeorgia.edu/papersandpubs/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of North Georgia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Peer Review: The Undergraduate Research Journal of the Ethnography of the University Initiative</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://ugresearchjournals.illinois.edu/index.php/preui/index"><Data
+      ss:Type="String">https://ugresearchjournals.illinois.edu/index.php/preui/index</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Illinois at Urbana-Champaign</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Penn Bioethics Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://bioethicsjournal.com/index.html"><Data
+      ss:Type="String">http://bioethicsjournal.com/index.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of Pennsylvania</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Penn Journal of Economics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://pennjoe.com/"><Data ss:Type="String">https://pennjoe.com</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Pennsylvania</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Penn Undergraduate Law Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.pulj.org/"><Data ss:Type="String">http://www.pulj.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Pennsylvania</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Perspectives on Undergraduate Research and Mentoring</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://blogs.elon.edu/purm/"><Data
+      ss:Type="String">http://blogs.elon.edu/purm/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Elon University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Philologia: Undergraduate Research Journal for Liberal Arts and Human Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.philologia.clahs.vt.edu/"><Data
+      ss:Type="String">http://www.philologia.clahs.vt.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Virginia Polytechnic Institute and State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Pi Sigma Alpha Undergraduate Journal of Politics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.psajournal.org/"><Data
+      ss:Type="String">http://www.psajournal.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Pi Sigma Alpha</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Pittsburgh Undergraduate Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.pur.honorscollege.pitt.edu/"><Data
+      ss:Type="String">http://www.pur.honorscollege.pitt.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Pittsburgh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Popular Archaeology</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://popular-archaeology.com/page/the-student-scholar-program"><Data
+      ss:Type="String">http://popular-archaeology.com/page/the-student-scholar-program</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Student Scholar Program</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Princeton Innovation</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.princetoninnovation.org/"><Data
+      ss:Type="String">http://www.princetoninnovation.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Princeton University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Proto: Undergraduate Humanities Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.protojournal.org/"><Data
+      ss:Type="String">http://www.protojournal.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Loyola University Maryland and Stevenson University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Psi Chi Journal of Psychological Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.psichi.org/?page=journal_main"><Data
+      ss:Type="String">http://www.psichi.org/?page=journal_main</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Public Writing</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scholarlyexchange.org/ojs/index.php/PW/index"><Data
+      ss:Type="String">http://scholarlyexchange.org/ojs/index.php/PW/index</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">PURSUE</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.pvamu.edu/pursue/"><Data
+      ss:Type="String">http://www.pvamu.edu/pursue/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Prairie View A &amp; M University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Pursuit: The Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://trace.tennessee.edu/pursuit/"><Data
+      ss:Type="String">http://trace.tennessee.edu/pursuit/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Tennessee at Knoxville</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Queen City Writers</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://qc-writers.com/"><Data ss:Type="String">http://qc-writers.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Cincinnati</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Re:Search, The Undergraduate Literary Criticism Journal at the University of Illinois at Urbana-Champaign</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://ugresearchjournals.illinois.edu/index.php/ujlc/index"><Data
+      ss:Type="String">https://ugresearchjournals.illinois.edu/index.php/ujlc/index</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Illinois at Urbana-Champaign</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">ReCUR ( Red Cedar Undergraduate Research)</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.recur.msu.edu/"><Data
+      ss:Type="String">http://www.recur.msu.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Michigan State Univeristy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Reinvention: an International Journal of Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www2.warwick.ac.uk/fac/cross_fac/iatl/reinvention/"><Data
+      ss:Type="String">http://www2.warwick.ac.uk/fac/cross_fac/iatl/reinvention/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Monash Univeristy &amp; The University of Warwick</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Rollins Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scholarship.rollins.edu/rurj/"><Data
+      ss:Type="String">http://scholarship.rollins.edu/rurj/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Rollins University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Rose-Hulman Undergraduate Mathematics Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.rose-hulman.edu/mathjournal/"><Data
+      ss:Type="String">http://www.rose-hulman.edu/mathjournal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Rose-Hulman Institute of Technology</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Roshangar: Roshan Undergraduate Persian Studies Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.roshangarumd.com/"><Data
+      ss:Type="String">http://www.roshangarumd.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Roshan Institute for Persian Studies School of Languages, Literatures, and Cultures University of Maryland, College Park</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">RURALS: Review of Undergraduate Research in Agricultural and Life Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.unl.edu/rurals/"><Data
+      ss:Type="String">http://digitalcommons.unl.edu/rurals/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Nebraska-Lincoln</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Saltman Quarterly</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://sqonline.ucsd.edu/"><Data
+      ss:Type="String">https://sqonline.ucsd.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, San Diego (UCSD)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Scholars' Day Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://web.monroecc.edu/manila/webfiles/scholarsday/SDR.html"><Data
+      ss:Type="String">http://web.monroecc.edu/manila/webfiles/scholarsday/SDR.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Monroe Community College, Rochester, NY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">scholarworks.gvsu.edu/gvjh/</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scholarworks.gvsu.edu/gvjh/"><Data
+      ss:Type="String">http://scholarworks.gvsu.edu/gvjh/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Grand Valley State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Scientia</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://issuu.com/baylor_scientia"><Data
+      ss:Type="String">http://issuu.com/baylor_scientia</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Baylor University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Scientia et Humanitas</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://capone.mtsu.edu/scientia/ojs/index.php/seth"><Data
+      ss:Type="String">http://capone.mtsu.edu/scientia/ojs/index.php/seth</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Middle Tennessee State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Scientific Terrapin</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scientificterrapin.umd.edu/"><Data
+      ss:Type="String">http://scientificterrapin.umd.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Maryland, College Park</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Security and Intelligence Studies Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://sisjournal.king.edu/"><Data
+      ss:Type="String">http://sisjournal.king.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">King University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">SIAM Undergraduate Research Online (SIURO)</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.siam.org/students/siuro/"><Data
+      ss:Type="String">http://www.siam.org/students/siuro/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Society For Industrial and Applied Mathematics (SIAM)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Southern California International Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.scinternationalreview.org/"><Data
+      ss:Type="String">http://www.scinternationalreview.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Southern California International Review</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">SS-AAEA Journal of Agricultural Economics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://asp.okstate.edu/baileynorwood/Misc2/SSAAEAJournal.htm"><Data
+      ss:Type="String">http://asp.okstate.edu/baileynorwood/Misc2/SSAAEAJournal.htm</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Stance</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://stance.iweb.bsu.edu/"><Data
+      ss:Type="String">http://stance.iweb.bsu.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ball State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Stanford Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.stanford.edu/group/journal/"><Data
+      ss:Type="String">http://www.stanford.edu/group/journal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Stanford University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Stockton Innovations</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.stockton.edu/innovations"><Data
+      ss:Type="String">http://www.stockton.edu/innovations</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Stockton College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">SURJ at Clark Univeristy</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.surjatclarku.com/"><Data
+      ss:Type="String">http://www.surjatclarku.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Clark University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Texas State Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://journals.tdl.org/txstate/index.php/txstate"><Data
+      ss:Type="String">http://journals.tdl.org/txstate/index.php/txstate</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Honors College Texas State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Beloit Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://burj.beloit.edu/"><Data ss:Type="String">http://burj.beloit.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Beloit College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Brown Journal of World Affairs</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.bjwa.org/"><Data ss:Type="String">http://www.bjwa.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Brown University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Catalyst Undergraduate Bioengineering Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.bioe.umd.edu/sites/default/files/documents/thecatalyst-issue1.pdf"><Data
+      ss:Type="String">http://www.bioe.umd.edu/sites/default/files/documents/thecatalyst-issue1.pdf</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Maryland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Chicago Journal of Foreign Policy</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://chicagojournalfp.com/"><Data
+      ss:Type="String">http://chicagojournalfp.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The University of Chicago</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Classic Journal at University of Georgia</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://theclassicjournal.uga.edu/index.php/about/"><Data
+      ss:Type="String">http://theclassicjournal.uga.edu/index.php/about/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Georgia</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Contemporary's Inaugural Edition</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://issuu.com/tucontemporary/docs/the_contemporary_january-february_2/1"><Data
+      ss:Type="String">https://issuu.com/tucontemporary/docs/the_contemporary_january-february_2/1</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Trinity University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Developing Economist</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.developingeconomist.com/"><Data
+      ss:Type="String">http://www.developingeconomist.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Texas at Austin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Dialectics: Undergraduate Journal of Leadership, Politics, and Society</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.abington.psu.edu/dialectics/index.html"><Data
+      ss:Type="String">http://www.abington.psu.edu/dialectics/index.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Pennsylvania State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Drew Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://depts.drew.edu/lib/drewreview/"><Data
+      ss:Type="String">http://depts.drew.edu/lib/drewreview/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Drew University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Eagle Feather</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://eaglefeather.honors.unt.edu/"><Data
+      ss:Type="String">http://eaglefeather.honors.unt.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of North Texas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Fordham Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.fordham.edu/academics/colleges__graduate_s/undergraduate_colleg/fordham_college_at_r/undergraduate_resear/the_fordham_undergra/"><Data
+      ss:Type="String">http://www.fordham.edu/academics/colleges__graduate_s/undergraduate_colleg/fordham_college_at_r/undergraduate_resear/the_fordham_undergra/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Fordham University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Gettysburg College Journal of the Civil War Era</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://cupola.gettysburg.edu/gcjcwe/"><Data
+      ss:Type="String">http://cupola.gettysburg.edu/gcjcwe/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Gettysburg College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Gettysburg Historical Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://cupola.gettysburg.edu/ghj/"><Data
+      ss:Type="String">http://cupola.gettysburg.edu/ghj/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Gettysburg College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Grassroots Writing Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://isuwriting.com/grassroots/"><Data
+      ss:Type="String">http://isuwriting.com/grassroots/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Illinois State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Harvard Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.thurj.org/"><Data ss:Type="String">http://www.thurj.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Harvard University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Honors Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://honorsreview.wordpress.com/"><Data
+      ss:Type="String">http://honorsreview.wordpress.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Augsburg College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The International Journal for Undergraduate Research - Science, Engineering &amp; Technology (IJUR-SET)</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.qscience.com/page/ijur-set/ji_ijur-set"><Data
+      ss:Type="String">http://www.qscience.com/page/ijur-set/ji_ijur-set</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Qatar Foundation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Kennesaw Tower</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://kennesawtower.kennesaw.edu/"><Data
+      ss:Type="String">http://kennesawtower.kennesaw.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kennesaw State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Kennessaw Tower</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://commons.kennesaw.edu/kennesawtower/"><Data
+      ss:Type="String">https://commons.kennesaw.edu/kennesawtower/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kennessaw State Univeristy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Mercury: The Student Art &amp; Literary Magazine of Gettysburg College</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://cupola.gettysburg.edu/mercury/"><Data
+      ss:Type="String">http://cupola.gettysburg.edu/mercury/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Gettysburg College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Midway Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://midwayreview.uchicago.edu/"><Data
+      ss:Type="String">http://midwayreview.uchicago.edu</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The University of Chicago</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Morningside Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://morningsidereview.org/"><Data
+      ss:Type="String">http://morningsidereview.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Columbia University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The North Star Reports: Global Citizenship and Digital Literacy</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://northstarreports.org/write-for-us/"><Data
+      ss:Type="String">http://northstarreports.org/write-for-us/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The North Star Reports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Oswald Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://web.usca.edu/english/oswald-review/"><Data
+      ss:Type="String">http://web.usca.edu/english/oswald-review/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of South Carolina Aiken</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Owl: The Florida State University Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://diginole.lib.fsu.edu/owl/"><Data
+      ss:Type="String">http://diginole.lib.fsu.edu/owl/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Florida State University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Politic</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://thepolitic.org/"><Data ss:Type="String">http://thepolitic.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Yale University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://bentleylends.org/the-review/"><Data
+      ss:Type="String">http://bentleylends.org/the-review/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bentley University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Synapse</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.thesynapsemagazine.org/"><Data
+      ss:Type="String">http://www.thesynapsemagazine.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Oberlin College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Tower</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://gttower.org/"><Data ss:Type="String">http://gttower.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Georgia Institute of Technology</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Triple Helix at the University of Chicago</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://thetriplehelix.uchicago.edu/"><Data
+      ss:Type="String">http://thetriplehelix.uchicago.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Chicago</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The UCI Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.urop.uci.edu/journal.html"><Data
+      ss:Type="String">http://www.urop.uci.edu/journal.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, Irvine</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Yale Philosophy Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.yale.edu/ypr/"><Data
+      ss:Type="String">http://www.yale.edu/ypr/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Yale University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">The Yale Review of Undergraduate Research in Psychology</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.yale.edu/yrurp/"><Data
+      ss:Type="String">http://www.yale.edu/yrurp/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Yale University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tufts Historical Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://ase.tufts.edu/pandp/historicalreview/"><Data
+      ss:Type="String">http://ase.tufts.edu/pandp/historicalreview/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tufts University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tufts Historical Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://ase.tufts.edu/pandp/historicalreview/"><Data
+      ss:Type="String">http://ase.tufts.edu/pandp/historicalreview/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tufts University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">TuftScope</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.tuftscope.squarespace.com/"><Data
+      ss:Type="String">http://www.tuftscope.squarespace.com</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tufts University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tulane Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.turj.org/"><Data ss:Type="String">http://www.turj.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tulane University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">UC Berkeley Comparative Literature Undergraduate Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://ucb-cluj.org/"><Data ss:Type="String">http://ucb-cluj.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, Berkeley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">UCF Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://www.urj.ucf.edu/"><Data
+      ss:Type="String">https://www.urj.ucf.edu/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Central Florida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">UCLA Undergraduate Journal of Economics</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.uclaeconjournal.com/"><Data
+      ss:Type="String">http://www.uclaeconjournal.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, Los Angeles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">UCLA Undergraduate Science Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.studentgroups.ucla.edu/USJ/"><Data
+      ss:Type="String">http://www.studentgroups.ucla.edu/USJ/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, Los Angeles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">UMURJ Website</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://umurjournal.wix.com/umurj"><Data
+      ss:Type="String">http://umurjournal.wix.com/umurj</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Mississippi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Berkeley Economic Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://www.ocf.berkeley.edu/~uea/"><Data
+      ss:Type="String">https://www.ocf.berkeley.edu/~uea/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of California, Berkeley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Economic Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.iwu.edu/uer/"><Data
+      ss:Type="String">http://digitalcommons.iwu.edu/uer/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Illinois Wesleyan University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Journal of Global Citizenship</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://digitalcommons.fairfield.edu/jogc/about.html"><Data
+      ss:Type="String">http://digitalcommons.fairfield.edu/jogc/about.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Fairfield University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Journal of Humanistic Studies</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://apps.carleton.edu/ujhs/"><Data
+      ss:Type="String">https://apps.carleton.edu/ujhs/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Carleton College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Journal of Mathematical Modeling: One + Two</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://scholarcommons.usf.edu/ujmm/"><Data
+      ss:Type="String">http://scholarcommons.usf.edu/ujmm/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of South Florida (USF)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Journal of Middle East Studies</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://nmc.utoronto.ca/undergraduate-journal-of-middle-east-studies/"><Data
+      ss:Type="String">http://nmc.utoronto.ca/undergraduate-journal-of-middle-east-studies/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Toronto</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Journal of Psychology at Berkeley</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://ujpb.org/"><Data ss:Type="String">http://ujpb.org</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">UC Berkeley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Journal of Service Learning and Community-Based Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.bk.psu.edu/Academics/journal.htm"><Data
+      ss:Type="String">http://www.bk.psu.edu/Academics/journal.htm</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Penn State Berks</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://www.iusb.edu/ugr-journal/"><Data
+      ss:Type="String">https://www.iusb.edu/ugr-journal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Indiana University South Bend</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.utexas.edu/ugs/ugr/studentwork/ut_journals"><Data
+      ss:Type="String">http://www.utexas.edu/ugs/ugr/studentwork/ut_journals</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Texas at Austin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Undergraduate Research Journal for the Human Sciences</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.kon.org/urc/urc_research_journal.html"><Data
+      ss:Type="String">http://www.kon.org/urc/urc_research_journal.html</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Kappa Omicron Nu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Michigan Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://umurj.org/"><Data ss:Type="String">http://umurj.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Univeristy of Michigan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">USCience Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www-scf.usc.edu/~uscience/"><Data
+      ss:Type="String">http://www-scf.usc.edu/~uscience/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Southern California</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Valley Humanities Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.lvc.edu/vhr/"><Data ss:Type="String">http://www.lvc.edu/vhr/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Lebanon Valley College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vanderbilt Historical Review</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://vanderbilthistoricalreview.com/"><Data
+      ss:Type="String">http://vanderbilthistoricalreview.com/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vanderbilt University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vanderbilt Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://ejournals.library.vanderbilt.edu/ojs/index.php/vurj/index"><Data
+      ss:Type="String">http://ejournals.library.vanderbilt.edu/ojs/index.php/vurj/index</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vanderbilt University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vassar College Journal of Philosophy</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://philosophy.vassar.edu/students/journal/"><Data
+      ss:Type="String">http://philosophy.vassar.edu/students/journal/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vassar College</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Vertices, Duke University Journal of Science and Technology</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://duke.collegiatelink.net/organization/vertices"><Data
+      ss:Type="String">https://duke.collegiatelink.net/organization/vertices</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Duke University</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Women's Web Work</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.theknewjournal.org/"><Data
+      ss:Type="String">http://www.theknewjournal.org</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">WPI Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://issuu.com/wpiurj"><Data
+      ss:Type="String">https://issuu.com/wpiurj</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Worcester Polytechnic Institute</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">WPI Undergraduate Research Journal</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="https://wurj.org/"><Data ss:Type="String">https://wurj.org/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Worcester Polytechnic Institute</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">www.usask.ca/usurj</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://www.usask.ca/usurj"><Data
+      ss:Type="String">http://www.usask.ca/usurj</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Saskatchewan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Xchanges</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://infohost.nmt.edu/~xchanges/"><Data
+      ss:Type="String">http://infohost.nmt.edu/~xchanges/</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">New Mexico Institute of Mining and Technology</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Young Scholars in Writing: Undergraduate Research</Data></Cell>
+    <Cell ss:StyleID="s18" ss:HRef="http://cas.umkc.edu/english/publications/youngscholarsinwriting/default.asp"><Data
+      ss:Type="String">http://cas.umkc.edu/english/publications/youngscholarsinwriting/default.asp</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">University of Missouri-Kansas City</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false">
+  <x2:Schema x2:ID="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns=""><xsd:element nillable="true" name="journals"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="journal" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="name" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:anyURI" name="URL" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="institution" form="unqualified"></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:schema>
+  </x2:Schema>
+  <x2:Map x2:ID="journals_Map" x2:SchemaID="Schema1" x2:RootElement="journals">
+   <x2:Entry x2:Type="table" x2:ID="1" x2:ShowTotals="false">
+    <x2:Range>Sheet1!R2C1:R234C3</x2:Range>
+    <x2:HeaderRange>R1C1</x2:HeaderRange>
+    <x:FilterOn>True</x:FilterOn>
+    <x2:XPath>/journals/journal</x2:XPath>
+    <x2:Field x2:ID="name">
+     <x2:Range>RC</x2:Range>
+     <x2:XPath>name</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="URL">
+     <x2:Range>RC[1]</x2:Range>
+     <x2:XPath>URL</x2:XPath>
+     <x2:XSDType>anyURI</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="institution">
+     <x2:Range>RC[2]</x2:Range>
+     <x2:XPath>institution</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+   </x2:Entry>
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>journals_Map</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">\\bl-libg-crystal.ads.iu.edu\home\nhomenda\XSLT school\workshop\transformed-website.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>
