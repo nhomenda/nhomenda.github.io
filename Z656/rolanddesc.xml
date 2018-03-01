@@ -13,11 +13,11 @@
     <family type="polysynth">
         <instrument>
             <name>Juno-60</name>
-            <description>The Roland Juno-60 is a polysynth with six digitally-controlled oscillators and fantastic onboard chorus, head on such hits as "Last Christmas" by George Michael and "All Through the Night" by Cyndi Lauper.</description>
+            <description>The Roland Juno-60 is a polysynth with six digitally-controlled oscillators and fantastic onboard chorus, heard on such hits as "Last Christmas" by George Michael and "All Through the Night" by Cyndi Lauper.</description>
         </instrument>
         <instrument>
             <name>Jupiter-8</name>
-            <description>Widely considered to be the finest analog polysynth ever made, the Roland Jupiter 8 contains eight discrete voltage controlled oscillators and is head on hits like "Forever Young" by Alphaville, "It's My Life" by Talk Talk, and "Sexual Healing" by Marvin Gaye.</description>
+            <description>Widely considered to be the finest analog polysynth ever made, the Roland Jupiter 8 contains eight discrete voices, each with two voltage controlled oscillators and is head on hits like "Forever Young" by Alphaville, "It's My Life" by Talk Talk, and "Sexual Healing" by Marvin Gaye.</description>
         </instrument>
     </family>
     <family type="drum_machine">
