@@ -14,8 +14,8 @@ date: 2018-03-02
 
 5. Here are some HTML examples that you can try:
   
-  -&lt;a href="www.website.com"&gt;text to display&lt;/a&gt;
-  
-  -&lt;p&gt;Paragraph text&lt;/p&gt;
-  
-  -&lt;h1 style="color:red !important; font-size:46px !important;"&gt;Heading&lt;/h1&gt;
+    a. &lt;a href="www.website.com"&gt;text to display&lt;/a&gt;
+    
+    b. &lt;p&gt;Paragraph text&lt;/p&gt;
+    
+    c. &lt;h1 style="color:red !important; font-size:46px !important;"&gt;Heading&lt;/h1&gt;
