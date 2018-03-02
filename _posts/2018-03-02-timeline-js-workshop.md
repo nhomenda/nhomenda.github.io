@@ -3,7 +3,7 @@ layout: post
 title: "TimelineJS Workshop"
 date: 2018-03-02
 ---
-![Gantt Chart](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GanttChartAnatomy.svg/1200px-GanttChartAnatomy.svg.png  =250x) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GanttChartAnatomy.svg/1200px-GanttChartAnatomy.svg.png" alt="Gantt Chart" width="250px"/>
 
 1. To start, copy this [Google Spreadsheet Template](https://docs.google.com/spreadsheets/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/template/preview?usp=drive_web) to your Google Drive and File -> Publish to the Web...
 
