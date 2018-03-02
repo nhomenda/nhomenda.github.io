@@ -13,6 +13,9 @@ date: 2018-03-02
 4. Here are some [background colors](https://www.w3schools.com/colors/colors_names.asp) you can use to customize the look of your timeline slides, or you can use another image.
 
 5. Here are some HTML examples that you can try:
+  
   -&lt;a href="www.website.com"&gt;text to display&lt;/a&gt;
-  -<p>Paragraph text</p>
-  -<h1 style="color:red !important; font-size:46px !important;">Heading</h1>
+  
+  -&lt;p&gt;Paragraph text&lt;/p&gt;
+  
+  -&lt;h1 style="color:red !important; font-size:46px !important;"&gt;Heading&lt;/h1&gt;
