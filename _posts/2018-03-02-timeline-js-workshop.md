@@ -22,4 +22,4 @@ date: 2018-03-02
     
 6. Here's my [example timeline](https://nhomenda.github.io/blog/2017/06/15/timeline-js-example) that I showed today.
     
-    a. Here's the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/14oeUonTxPoHDJQD5md5Ir3TtozcDs8wdurWWtd25SV8/edit#gid=00 that powers it.
+    a. Here's the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/14oeUonTxPoHDJQD5md5Ir3TtozcDs8wdurWWtd25SV8/edit#gid=00) that powers it.
