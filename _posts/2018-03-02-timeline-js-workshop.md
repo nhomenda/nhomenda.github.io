@@ -5,7 +5,9 @@ date: 2018-03-02
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GanttChartAnatomy.svg/1200px-GanttChartAnatomy.svg.png" alt="Gantt Chart" width="450px"/>
 
-**TimelineJS: "A Gantt Chart combined with a PowerPoint"**
+
+#TimelineJS: "A Gantt Chart combined with a PowerPoint"
+
 
 1. To start, copy this [Google Spreadsheet Template](https://docs.google.com/spreadsheets/d/1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ/template/preview?usp=drive_web) to your Google Drive and File -> Publish to the Web...
 
