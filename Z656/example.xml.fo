@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+   <fo:layout-master-set>
+      <fo:simple-page-master page-height="11in"
+                             page-width="8.5in"
+                             margin=".5in"
+                             master-name="PageMaster">
+         <fo:region-body margin=".5in"/>
+         <fo:region-before extent="3in" display-align="after"/>
+         <fo:region-after extent="1in" display-align="before"/>
+      </fo:simple-page-master>
+   </fo:layout-master-set>
+   <fo:page-sequence master-reference="PageMaster">
+      <fo:flow flow-name="xsl-region-body">
+         <fo:block font-family="serif"
+                   space-after="14pt"
+                   line-height="24pt"
+                   font-size="21pt">Guilty Males and Proud Females: Negotiating Genders in a Bengali Festival</fo:block>
+         <fo:block font-size="10pt" line-height="15pt">By Fabrizio M. Ferrari. 2011. Calcutta: Seagull Books. 268 pages. ISBN: 978-1-906497-52-1 (hard cover). </fo:block>
+         <fo:block text-align-last="justify">
+            <fo:leader leader-pattern="rule"/>
+         </fo:block>
+         <fo:block font-size="10pt" line-height="15pt" space-before="12pt">
+            <fo:inline font-style="italic">Reviewed by <fo:basic-link color="blue" external-destination="mailto:sunayani@uoregon.edu">Sunayani Bhattacharya</fo:basic-link>, University of Oregon.</fo:inline>
+         </fo:block>
+         <fo:block font-size="10pt" line-height="15pt" space-before="12pt">
+        [Review length: 762 words • Review posted on September 5, 2012]
+    </fo:block>
+         <fo:block text-align-last="justify">
+            <fo:leader leader-pattern="rule"/>
+         </fo:block>
+         <fo:block font-size="10pt"
+                   line-height="15pt"
+                   space-after="12pt"
+                   space-before="12pt"
+                   text-align="justify">Fabrizio Ferrari's ethnographic study of Gajan--a folk religion of Bengal--engages with the concept of the divine and its gendered manifestation within a particular religio-cultural community. Gajan, according to Ferrari, is the "enactment of an ancestral hierogamy" by primarily the Hindus and members of local tribes in West Bengal, although the religious ritual is not of Hindu, Buddhist, or tribal origin (6). The author argues it is the fertility festival peculiar to the communities belonging to the Rarh region of West Bengal. The festival follows the agricultural cycle, and the rituals performed by the predominantly male devotees seek to propitiate the earth, thereby ensuring the welfare of the community. The crux of Ferrari's argument revolves around an anti-syncreticist reading of religious realities, since syncreticism, for him, suggests an acceptance of rigid boundaries between religions/cultures. Instead, Ferrari claims, lived practice reveals a more dialogic relationship between the borders, which are "far more porous than expected" (95).</fo:block>
+         <fo:block font-size="10pt"
+                   line-height="15pt"
+                   space-after="12pt"
+                   space-before="12pt"
+                   text-align="justify">The opening two chapters of Guilty Males and Proud Females trace the roots of the Dharma cult, focusing particularly on its two scriptural texts–the Shunya Purana and the Dharma-puja-bidhana. It is interesting to note that the highly Sanskritized Bengali language employed by them demonstrates the "uselessness of translation," as the significance of the ritual word shifts from its meaning to the sound, and to the consequent feeling of devotion produced in the worshipper by means of the same (37). The status of the word, along with modifications of Vedic myths, reveals the Gajan to be a religious ritual in its own right, not subsumed by the more dominant Hindu forms. The following chapter of Ferrari's work examines the distance between existent ritual practice and liturgical texts through the figure of Dharmaraj, the cult's central male deity. Variously known as Dharma Thakur, Dharma, and other appellations denoting Shiva, he appears to be a conglomerate of Sanskritic/Vedic, Buddhist, and tribal figures of divinity, and, like his female counterpart, he is a capricious deity whose whims must be fulfilled by the devotees. In a departure from Vedic traditions, the granting of boons depends not on the fulfillment of ritual worship by the votary, but rather on the god's disposition.</fo:block>
+         <fo:block font-size="10pt"
+                   line-height="15pt"
+                   space-after="12pt"
+                   space-before="12pt"
+                   text-align="justify">Through extensive fieldwork and liturgical scholarship, Ferrari then goes on to demonstrate how the female deity (the earth)--although at the core of Gaja--has been marginalized in favor of Dharmaraj. The androcentric tone of the festival, however, leads to a crisis of masculinity as embodied in the ritual performance of the male devotees. Through a process which the author terms "genderization," the ritual becomes a way for the man to experience the traumas (sexual intercourse, childbirth, menstruation, and menopause) integral to the woman's being, and through this experience to purge himself of the guilt of penetrating the woman's body. Ferrari argues that the violent rituals of self-sacrifice--which include, among other things, piercing different parts of the body, and burying the body almost entirely--connote the man's renunciation of his masculinity in order to pacify the female divine, and to physically perform the hierogamy in which Dharmaraj is sacrificed to please the earth. The Gajan's rituals are also the symbolic enactment of motherhood by both male and female devotees, and the worship appears to privilege the action (karma) of the devotees over the ritual/social customs (dharma). The process of "genderization" leads Ferrari to conceptualize Gajan as the Bengali Carnival whose ultimate aim is the annihilation of the male ego through a "dramatic representation of the revenge of the dancing goddess" (197).</fo:block>
+         <fo:block font-size="10pt"
+                   line-height="15pt"
+                   space-after="12pt"
+                   space-before="12pt"
+                   text-align="justify">The concluding chapter of the study discusses the ethics of Ferrari's own research methods, which he terms as "diachronic comparativism"--a mode which pays heed to both localism and its elements as being performed within a particular socio-cultural matrix (214). The chosen methodology allows him to understand Gajan as being informed by "a process of cultural modification" owing to the presence of such forces as "anthropomorphization, internal competition, Sanskritization, [and] brahmanization" (215).</fo:block>
+         <fo:block font-size="10pt"
+                   line-height="15pt"
+                   space-after="12pt"
+                   space-before="12pt"
+                   text-align="justify">Overall, the text's method is a good representation of the difficulties of comprehending a religio-cultural festival using the lens of Western rationality, which is inherently alien to the object of study. Ferrari is also careful to avoid the discrepancies of the other end of the enthnographic spectrum, which categorizes the Gajan as an inaccessible "other," available only to a formal analysis. Instead, the festival is examined as the unique product of the Rarh region, both informed by and informing the socio-religious realities it is in contact with. There remains the question of an occasional conflation of the terms Bengali, Hindu, and Indian, but the study itself is nuanced enough to compensate for that.</fo:block>
+      </fo:flow>
+   </fo:page-sequence>
+</fo:root>
