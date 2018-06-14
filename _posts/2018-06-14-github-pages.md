@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Pages Code Snippets"
-date: 2018-02-27
+date: 2018-06-14
 ---
 <div class="blurb">
 <p>Snippet 1: <code>index.html</code></p>
@@ -136,7 +136,7 @@ layout: default
 	<pre class="prettyprint pre-scrollable"><code>---
 layout: post
 title: "NAME, Web Developer, launches site"
-date: 2018-02-27
+date: 2018-06-14
 ---
 
 Here is my GitHub Pages website! It's powered by &lbrack;Jekyll&rbrack;&lpar;http://jekyllrb.com&rpar; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.</code></pre>
