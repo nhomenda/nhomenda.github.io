@@ -34,7 +34,7 @@ date: 2018-06-14
 	&lt;/body&gt;
 &lt;/html&gt;</code></pre>
 
-<p>Snippet 2: <code>main.css</code></p>
+<p>Snippet 2: <code>css/main.css</code></p>
 <pre class="prettyprint pre-scrollable">
 body &lbrace;
     margin: 60px auto;
@@ -81,7 +81,7 @@ ul.posts li &lbrace;
 &rbrace;
 </pre>
 
-<p>Snippet 3: <code>default.html</code></p>
+<p>Snippet 3: <code>_layouts/default.html</code></p>
 <pre class="prettyprint pre-scrollable"><code>&lt;!DOCTYPE html&gt;
 	&lt;html&gt;
 		&lt;head&gt;
@@ -121,7 +121,7 @@ title: "NAME, Web Developer"
 	&lt;p&gt;Here's a blurb about me and my site!&lt;/p&gt;
 &lt;/div&gt;&lt;!-- /.blurb --&gt;</code></pre>
 	
-	<p>Snippet 5: <code>post.html</code></p>
+	<p>Snippet 5: <code>_layouts/post.html</code></p>
 	<pre class="prettyprint pre-scrollable"><code>---
 layout: default
 ---
@@ -132,7 +132,7 @@ layout: default
   &lbrace;&lbrace; content &rbrace;&rbrace;
 &lt;/div&gt;</code></pre>
 	
-	<p>Snippet 6: <code>2018-02-27-my-site-launched.md</code></p>
+	<p>Snippet 6: <code>_posts/2018-06-14-my-site-launched.md</code></p>
 	<pre class="prettyprint pre-scrollable"><code>---
 layout: post
 title: "NAME, Web Developer, launches site"
@@ -140,7 +140,7 @@ date: 2018-06-14
 ---
 
 Here is my GitHub Pages website! It's powered by &lbrack;Jekyll&rbrack;&lpar;http://jekyllrb.com&rpar; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.</code></pre>
-	<p>Snippet 6: <code>blog/index.html</code></p>
+	<p>Snippet 7: <code>blog/index.html</code></p>
 	<pre class="prettyprint pre-scrollable"><code>---
 layout: default
 title: "NAME's Blog"
@@ -153,7 +153,7 @@ title: "NAME's Blog"
 	  &lbrace;&percnt; endfor &percnt;&rbrace;
 	&lt;/ul&gt;</code></pre>
 	
-	<p>Snippet 7: <code>blog/atom.xml</code></p>
+	<p>Snippet 8: <code>blog/atom.xml</code></p>
 	<pre class="prettyprint pre-scrollable"><code>---
 layout: feed
 ---
