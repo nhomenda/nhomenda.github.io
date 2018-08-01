@@ -19,7 +19,7 @@ date: 2018-08-06
 
 5. Here are some HTML examples that you can try:
   
-    a. &lt;a href="www.website.com" title="title text"&gt;text to display&lt;/a&gt;
+    a. &lt;a href=&quot;www.website.com&quot; title=&quot;title text&quot;&gt;text to display&lt;/a&gt;
     
     b. &lt;p&gt;Paragraph text&lt;/p&gt;
     
