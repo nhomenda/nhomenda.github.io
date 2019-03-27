@@ -6,6 +6,32 @@ date: 2019-03-28
 
 <h1>{{ page.title }}</h1>
 <div class="blurb">
+  <p>Here are basic XPath tenets:</p>
+  <ol>
+    <li>Most XPaths begin with /</li>
+    <li>/root/parent/child selects all children at that level</li>
+    <li>Predicates
+      <ol>
+        <li>/root/parent/child[2] selects second child</li>
+        <li>/root/parent/child[@name] selects all children with an @name</li>
+        <li>/root/parent/child[@name="Fabio"] selects all children with @name="Fabio"</li>
+      </ol>
+    </li>
+    <li>Shortcuts
+      <ol>
+        <li>* is a wildcard</li>
+        <li>//element looks for element anywhere, is slow</li>
+      </ol>
+    </li>
+    <li>Functions
+      <ol>
+        <li>count(something) gives a number of somethings</li>
+        <li>substring-before(something, thing) returns "some"</li>
+        <li>substring-after(something, some) returns "thing"</li>
+      </ol>
+    </li>
+  </ol>
+  <h3>Activity</h3>
   <p>After the activity, download this <a href="neko_cats.zip">ZIP file</a>.</p>
   <p>Next, open this <a href="xquerypractice.xq">XQuery file</a>.</p>
   <p>If you're on a Mac, here's a useful tool:</p>
