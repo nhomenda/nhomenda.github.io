@@ -10,12 +10,12 @@ date: 2019-03-21
   <h2>In-class Activity</h2>
   <p>Working in pairs, come up with XPath expressions to find answers to the following questions about <a href="http://purl.dlib.indiana.edu/iudl/findingaids/archives/encodedtext/InU-Ar-VAD7971">a complex XML document</a>
 <ol>
-<li>What's this finding aid's unique identifier (Beginning with InU-Ar...)?</li>
-<li>Who prepared this finding aid ("Finding aid prepared by...")?</li>
-<li>What's the full version of the corporate name of the repository (the one with the dates at the end)?</li>
-<li>How many boxes are in this finding aid according to the physical description?</li>
-<li>How many boxes are in this finding aid according to the container list?</li>
-  <li>How many items are in this collection?</li>
+<li>What's this finding aid's unique identifier (Beginning with InU-Ar...)? <b>/ead/eadheader/eadid</b></li>
+<li>Who prepared this finding aid ("Finding aid prepared by...")? <b>/ead/eadheader/filedesc/titlestmt/author</b></li>
+<li>What's the full version of the corporate name of the repository (the one with the dates at the end)? <b>/ead/archdesc/did/repository/corpname/@normal</b></li>
+<li>How many boxes are in this finding aid according to the physical description? <b>/ead/archdesc/did/physdesc/extent[2]</b></li>
+<li>How many boxes are in this finding aid according to the container list? <b>count(//container[@label="Box"])</b></li>
+  <li>How many items are in this collection? <b>count(//c02)</b></li>
 </ol>
   <p>For reference, here's an <a href="https://lzone.de/cheat-sheet/XPath">XPath Cheat Sheet</a>.</p>
 </div><!-- /.blurb -->
