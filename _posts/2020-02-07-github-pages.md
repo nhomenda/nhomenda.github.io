@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Pages Code Snippets"
-date: 2019-02-22
+date: 2020-02-07
 ---
 <div class="blurb">
 <p>Snippet 1: <code>index.html</code></p>
