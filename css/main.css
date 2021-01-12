@@ -28,6 +28,9 @@ h1 {
     font-size: 3em;
     font-family:'Fraunces', 'Arial', 'Sans-Serif';
 }
+div.container {
+    width: 70%;   
+}
 p {
     font-size: 1.5em;
     line-height: 1.3em;
