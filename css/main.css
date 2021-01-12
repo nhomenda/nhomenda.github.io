@@ -21,6 +21,7 @@ a:hover {
     text-decoration: underline;
 }
 div.container h1 {
+    padding: 10px;
     background-image: linear-gradient(to bottom right, LightSalmon, LightCyan);   
 }
 h1 {
