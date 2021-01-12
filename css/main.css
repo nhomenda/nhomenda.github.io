@@ -38,6 +38,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    background-image: linear-gradient(to bottom right, LightSalmon, LightCyan);
 }
 
 ul.posts li {
