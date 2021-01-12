@@ -20,6 +20,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+div.container h1 {
+    background-image: linear-gradient(to bottom right, LightSalmon, LightCyan);   
+}
 h1 {
     font-size: 3em;
     font-family:'Fraunces', 'Arial', 'Sans-Serif';
@@ -38,7 +41,6 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    background-image: linear-gradient(to bottom right, LightSalmon, LightCyan);
 }
 
 ul.posts li {
