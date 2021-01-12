@@ -59,6 +59,9 @@ ul {
 
 ul li {
     list-style: none;
+    font-family: 'Sans-Serif';
+    letter-spacing: 0.1em;
+    font-size: 1em;
 }
 
 /* Code */
