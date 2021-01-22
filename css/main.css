@@ -123,7 +123,10 @@ samp {
 pre {
   white-space: pre-wrap;
 }
-p.fira {
+@font-face {
     font-family: FiraSans;
     src: url("/css/FiraSans-Regular.otf") format("opentype");   
+}
+p.fira {
+    font-family:'FiraSans';   
 }
