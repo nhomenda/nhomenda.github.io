@@ -1,0 +1,18 @@
+---
+layout: default
+title: "XSLT Transformation #2"
+date: 2021-02-11
+---
+
+<h1>{{ page.title }}</h1>
+<div class="blurb">
+<p>Write an XSLT to scrape data from this <a href="journal-list.xml">edited HTML document</a>. I stripped out some non-well-formed content from <a href="https://www.cur.org/engage/undergraduate/journals/listing/">this webpage</a>.<p>
+<p>Your XSLT should extract a useful dataset of undergraduate research journals from what's not very useful in list form.<p>
+<p>Your XSLT should do the following things:</p>
+<ul>
+<li>Handle all content via templates, either transforming into a new element or not carrying that content forward.</li>
+<li>Capture each journal's URL, name, and institution in table-like structure, e.g. each "record" is a row with individual cell children containing this data.</li>
+<li>Order your results by institution ascending</li>
+</ul>
+<p>Please upload your XSLT and resulting XML file to a subdirectory in GitHub like in previous weeks.</p>
+</div><!-- /.blurb -->
