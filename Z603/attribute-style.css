@@ -1,0 +1,4 @@
+element:after {
+    content: attr(type);
+    font-size: 60px;
+}
