@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table class="sortable jquery-tablesorter"
+    style="width:100%; text-align: center; border: 1px solid lightgray; background-color:WhiteSmoke">
+
+    <thead>
+        <tr style="background-color: #FFCB66; font-size: 11pt;">
+            <th style="border-radius:10px; width:20%;" class="unsortable">Cat </th>
+            <th style="border-radius:10px; width:20%;" class="unsortable">Description </th>
+            <th style="border-radius:10px; width:20%;" class="unsortable">Personality </th>
+            <th style="border-radius:10px; width:20%;" class="headerSort" tabindex="0"
+                role="columnheader button" title="Sort ascending">
+                <a href="/wiki/Power_Level" class="mw-redirect" title="Power Level">Power Lv.</a>
+            </th>
+            <th style="border-radius:10px; width:20%;" class="unsortable">
+                <a href="/wiki/Mementos" title="Mementos">Memento</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Snowball.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/0/04/Snowball.png/revision/latest/scale-to-width-down/40?cb=20151108102047"
+                    decoding="async" width="40" height="28" data-image-name="Snowball.png"
+                    data-image-key="Snowball.png"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Snowball" title="Snowball">Snowball</a>
+                </sup>
+            </th>
+            <td>Solid White </td>
+            <td>Mellow </td>
+            <td>80 </td>
+            <td><img alt="Memento snowball.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/2/24/Memento_snowball.png/revision/latest/scale-to-width-down/60?cb=20151108130138"
+                    decoding="async" width="60" height="42" data-image-name="Memento snowball.png"
+                    data-image-key="Memento_snowball.png"/>Flowered Collar </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Smokey.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/b/b2/Smokey.png/revision/latest/scale-to-width-down/40?cb=20151108103019"
+                    decoding="async" width="40" height="28" data-image-name="Smokey.png"
+                    data-image-key="Smokey.png"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Smokey" title="Smokey">Smokey</a>
+                </sup>
+            </th>
+            <td>Solid Black </td>
+            <td>Hot and Cold </td>
+            <td>140 </td>
+            <td><img alt="Memento smokey.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/c/ce/Memento_smokey.png/revision/latest/scale-to-width-down/60?cb=20151108130406"
+                    decoding="async" width="60" height="37" data-image-name="Memento smokey.png"
+                    data-image-key="Memento_smokey.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/ce/Memento_smokey.png/revision/latest/scale-to-width-down/60?cb=20151108130406"
+                    class=" ls-is-cached lazyloaded"/>Soft Brush </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Spots.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/b/b9/Spots.png/revision/latest/scale-to-width-down/40?cb=20151108103005"
+                    decoding="async" width="40" height="28" data-image-name="Spots.png"
+                    data-image-key="Spots.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/b/b9/Spots.png/revision/latest/scale-to-width-down/40?cb=20151108103005"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Spots" title="Spots">Spots</a>
+                </sup>
+            </th>
+            <td>Black &amp; White </td>
+            <td>Joker </td>
+            <td>75 </td>
+            <td><img alt="Memento spots.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/5/54/Memento_spots.png/revision/latest/scale-to-width-down/55?cb=20151108130620"
+                    decoding="async" width="55" height="28" data-image-name="Memento spots.png"
+                    data-image-key="Memento_spots.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/5/54/Memento_spots.png/revision/latest/scale-to-width-down/55?cb=20151108130620"
+                    class=" ls-is-cached lazyloaded"/>Glow Bracelet </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Shadow.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/8/8e/Shadow.png/revision/latest/scale-to-width-down/40?cb=20151108103131"
+                    decoding="async" width="40" height="28" data-image-name="Shadow.png"
+                    data-image-key="Shadow.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/8/8e/Shadow.png/revision/latest/scale-to-width-down/40?cb=20151108103131"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Shadow" title="Shadow">Shadow</a>
+                </sup>
+            </th>
+            <td>Solid Grey </td>
+            <td>Peculiar </td>
+            <td>50 </td>
+            <td><img alt="Memento shadow.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/1/19/Memento_shadow.png/revision/latest/scale-to-width-down/45?cb=20151108130632"
+                    decoding="async" width="45" height="50" data-image-name="Memento shadow.png"
+                    data-image-key="Memento_shadow.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/1/19/Memento_shadow.png/revision/latest/scale-to-width-down/45?cb=20151108130632"
+                    class=" ls-is-cached lazyloaded"/>Cicada Skin </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Sunny.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/9/9a/Sunny.png/revision/latest/scale-to-width-down/40?cb=20151108103252"
+                    decoding="async" width="40" height="28" data-image-name="Sunny.png"
+                    data-image-key="Sunny.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/9/9a/Sunny.png/revision/latest/scale-to-width-down/40?cb=20151108103252"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Sunny" title="Sunny">Sunny</a>
+                </sup>
+            </th>
+            <td>Turkish Calico </td>
+            <td>Mischievous </td>
+            <td>120 </td>
+            <td><img alt="Memento sunny.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/a/a3/Memento_sunny.png/revision/latest/scale-to-width-down/50?cb=20151108133626"
+                    decoding="async" width="50" height="33" data-image-name="Memento sunny.png"
+                    data-image-key="Memento_sunny.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/a/a3/Memento_sunny.png/revision/latest/scale-to-width-down/50?cb=20151108133626"
+                    class=" ls-is-cached lazyloaded"/>Shiny Acorn </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Fred.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/d/d7/Fred.png/revision/latest/scale-to-width-down/40?cb=20151108103331"
+                    decoding="async" width="40" height="28" data-image-name="Fred.png"
+                    data-image-key="Fred.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/d/d7/Fred.png/revision/latest/scale-to-width-down/40?cb=20151108103331"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Fred" title="Fred">Fred</a>
+                </sup>
+            </th>
+            <td>Orange Tabby </td>
+            <td>Lady-Killer </td>
+            <td>150 </td>
+            <td><img alt="Memento fred.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/e/e9/Memento_fred.png/revision/latest/scale-to-width-down/40?cb=20151108134059"
+                    decoding="async" width="40" height="38" data-image-name="Memento fred.png"
+                    data-image-key="Memento_fred.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/e/e9/Memento_fred.png/revision/latest/scale-to-width-down/40?cb=20151108134059"
+                    class=" ls-is-cached lazyloaded"/>Seashell Earring </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Pumpkin.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/6/64/Pumpkin.png/revision/latest/scale-to-width-down/40?cb=20151108103718"
+                    decoding="async" width="40" height="28" data-image-name="Pumpkin.png"
+                    data-image-key="Pumpkin.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/6/64/Pumpkin.png/revision/latest/scale-to-width-down/40?cb=20151108103718"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Pumpkin" title="Pumpkin">Pumpkin</a>
+                </sup>
+            </th>
+            <td>Orange &amp; White Tabby </td>
+            <td>Spacey </td>
+            <td>90 </td>
+            <td><img alt="Memento pumpkin.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/6/6d/Memento_pumpkin.png/revision/latest/scale-to-width-down/50?cb=20151108134033"
+                    decoding="async" width="50" height="20" data-image-name="Memento pumpkin.png"
+                    data-image-key="Memento_pumpkin.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/6/6d/Memento_pumpkin.png/revision/latest/scale-to-width-down/50?cb=20151108134033"
+                    class=" ls-is-cached lazyloaded"/>Aluminum Pins </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Callie.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/4/4d/Callie.png/revision/latest/scale-to-width-down/40?cb=20151108103730"
+                    decoding="async" width="40" height="28" data-image-name="Callie.png"
+                    data-image-key="Callie.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/4/4d/Callie.png/revision/latest/scale-to-width-down/40?cb=20151108103730"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Callie" title="Callie">Callie</a>
+                </sup>
+            </th>
+            <td>Calico </td>
+            <td>Carefree </td>
+            <td>50 </td>
+            <td><img alt="Memento callie.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/1/1f/Memento_callie.png/revision/latest/scale-to-width-down/55?cb=20151108134950"
+                    decoding="async" width="55" height="31" data-image-name="Memento callie.png"
+                    data-image-key="Memento_callie.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/1/1f/Memento_callie.png/revision/latest/scale-to-width-down/55?cb=20151108134950"
+                    class=" ls-is-cached lazyloaded"/>Damp Matchbox </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Tabitha.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/9/9e/Tabitha.png/revision/latest/scale-to-width-down/40?cb=20151108104040"
+                    decoding="async" width="40" height="28" data-image-name="Tabitha.png"
+                    data-image-key="Tabitha.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/9/9e/Tabitha.png/revision/latest/scale-to-width-down/40?cb=20151108104040"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Tabitha" title="Tabitha">Tabitha</a>
+                </sup>
+            </th>
+            <td>Calico Tabby </td>
+            <td>Leisurely </td>
+            <td>40 </td>
+            <td><img alt="Memento tabitha.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/8/86/Memento_tabitha.png/revision/latest/scale-to-width-down/45?cb=20151108135008"
+                    decoding="async" width="45" height="23" data-image-name="Memento tabitha.png"
+                    data-image-key="Memento_tabitha.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/8/86/Memento_tabitha.png/revision/latest/scale-to-width-down/45?cb=20151108135008"
+                    class=" ls-is-cached lazyloaded"/>Random Seeds </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Bandit.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/1/1f/Bandit.png/revision/latest/scale-to-width-down/40?cb=20151108104014"
+                    decoding="async" width="40" height="28" data-image-name="Bandit.png"
+                    data-image-key="Bandit.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/1/1f/Bandit.png/revision/latest/scale-to-width-down/40?cb=20151108104014"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Bandit" title="Bandit">Bandit</a>
+                </sup>
+            </th>
+            <td>Tortoiseshell </td>
+            <td>Wild at Heart </td>
+            <td>180 </td>
+            <td><img alt="Memento bandit.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/e/e5/Memento_bandit.png/revision/latest/scale-to-width-down/50?cb=20151108135024"
+                    decoding="async" width="50" height="35" data-image-name="Memento bandit.png"
+                    data-image-key="Memento_bandit.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/e/e5/Memento_bandit.png/revision/latest/scale-to-width-down/50?cb=20151108135024"
+                    class=" ls-is-cached lazyloaded"/>Teaser Toy Tip </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Gabriel.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/d/da/Gabriel.png/revision/latest/scale-to-width-down/40?cb=20151108104114"
+                    decoding="async" width="40" height="28" data-image-name="Gabriel.png"
+                    data-image-key="Gabriel.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/d/da/Gabriel.png/revision/latest/scale-to-width-down/40?cb=20151108104114"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Gabriel" title="Gabriel">Gabriel</a>
+                </sup>
+            </th>
+            <td>Tuxedo </td>
+            <td>Diligent </td>
+            <td>150 </td>
+            <td><img alt="Memento gabriel.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/f/f1/Memento_gabriel.png/revision/latest/scale-to-width-down/55?cb=20151108135100"
+                    decoding="async" width="55" height="31" data-image-name="Memento gabriel.png"
+                    data-image-key="Memento_gabriel.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/f1/Memento_gabriel.png/revision/latest/scale-to-width-down/55?cb=20151108135100"
+                    class=" ls-is-cached lazyloaded"/>Raffle Ticket </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Marshmellow.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/c/c1/Marshmellow.png/revision/latest/scale-to-width-down/40?cb=20151108104352"
+                    decoding="async" width="40" height="28" data-image-name="Marshmellow.png"
+                    data-image-key="Marshmellow.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/c1/Marshmellow.png/revision/latest/scale-to-width-down/40?cb=20151108104352"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Marshmallow" title="Marshmallow">Marshmallow</a>
+                </sup>
+            </th>
+            <td>Pointed </td>
+            <td>Aloof </td>
+            <td>170 </td>
+            <td><img alt="Memento marshmallow.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/9/99/Memento_marshmallow.png/revision/latest/scale-to-width-down/55?cb=20151108135319"
+                    decoding="async" width="55" height="37"
+                    data-image-name="Memento marshmallow.png"
+                    data-image-key="Memento_marshmallow.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/9/99/Memento_marshmallow.png/revision/latest/scale-to-width-down/55?cb=20151108135319"
+                    class=" ls-is-cached lazyloaded"/>Flower Bookmark </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Socks.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/e/ef/Socks.png/revision/latest/scale-to-width-down/40?cb=20151108104549"
+                    decoding="async" width="40" height="28" data-image-name="Socks.png"
+                    data-image-key="Socks.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/e/ef/Socks.png/revision/latest/scale-to-width-down/40?cb=20151108104549"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Socks" title="Socks">Socks</a>
+                </sup>
+            </th>
+            <td>Black w/ White Mitts </td>
+            <td>Adventurous </td>
+            <td>70 </td>
+            <td><img alt="Memento socks.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/0/06/Memento_socks.png/revision/latest/scale-to-width-down/55?cb=20151108135337"
+                    decoding="async" width="55" height="34" data-image-name="Memento socks.png"
+                    data-image-key="Memento_socks.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/06/Memento_socks.png/revision/latest/scale-to-width-down/55?cb=20151108135337"
+                    class=" ls-is-cached lazyloaded"/>Small Mittens </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Lexy.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/f/fa/Lexy.png/revision/latest/scale-to-width-down/40?cb=20151108104609"
+                    decoding="async" width="40" height="28" data-image-name="Lexy.png"
+                    data-image-key="Lexy.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/fa/Lexy.png/revision/latest/scale-to-width-down/40?cb=20151108104609"
+                    class=" ls-is-cached lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Lexy" title="Lexy">Lexy</a>
+                </sup>
+            </th>
+            <td>Grey &amp; White </td>
+            <td>Expensive Tastes </td>
+            <td>100 </td>
+            <td><img alt="Memento lexy.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/7/79/Memento_lexy.png/revision/latest/scale-to-width-down/55?cb=20151108143935"
+                    decoding="async" width="55" height="18" data-image-name="Memento lexy.png"
+                    data-image-key="Memento_lexy.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/7/79/Memento_lexy.png/revision/latest/scale-to-width-down/55?cb=20151108143935"
+                    class=" ls-is-cached lazyloaded"/>Dirty Toy Animal </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Bolt.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/8/8e/Bolt.png/revision/latest/scale-to-width-down/40?cb=20151108104623"
+                    decoding="async" width="40" height="28" data-image-name="Bolt.png"
+                    data-image-key="Bolt.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/8/8e/Bolt.png/revision/latest/scale-to-width-down/40?cb=20151108104623"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Bolt" title="Bolt">Bolt</a>
+                </sup>
+            </th>
+            <td>Brown Tabby </td>
+            <td>Insatiable </td>
+            <td>140 </td>
+            <td><img alt="Memento bolt.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/3/3d/Memento_bolt.png/revision/latest/scale-to-width-down/60?cb=20151108144429"
+                    decoding="async" width="60" height="21" data-image-name="Memento bolt.png"
+                    data-image-key="Memento_bolt.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/3/3d/Memento_bolt.png/revision/latest/scale-to-width-down/60?cb=20151108144429"
+                    class=" lazyloaded"/>Fish-stick Board </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Breezy.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/3/35/Breezy.png/revision/latest/scale-to-width-down/40?cb=20151108105041"
+                    decoding="async" width="40" height="28" data-image-name="Breezy.png"
+                    data-image-key="Breezy.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/3/35/Breezy.png/revision/latest/scale-to-width-down/40?cb=20151108105041"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Breezy" title="Breezy">Breezy</a>
+                </sup>
+            </th>
+            <td>Brown &amp; White Tabby </td>
+            <td>Laid Back </td>
+            <td>30 </td>
+            <td><a
+                    href="https://static.wikia.nocookie.net/nekoatsume/images/4/4b/Memento_breezy.png/revision/latest?cb=20151108144509"
+                    class="image"><img alt="Memento breezy.png"
+                        src="https://static.wikia.nocookie.net/nekoatsume/images/4/4b/Memento_breezy.png/revision/latest/scale-to-width-down/50?cb=20151108144509"
+                        decoding="async" width="50" height="31" data-image-name="Memento breezy.png"
+                        data-image-key="Memento_breezy.png"
+                        data-src="https://static.wikia.nocookie.net/nekoatsume/images/4/4b/Memento_breezy.png/revision/latest/scale-to-width-down/50?cb=20151108144509"
+                        class=" lazyloaded"/></a>Hourglass </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Misty.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/f/f0/Misty.png/revision/latest/scale-to-width-down/40?cb=20151108105009"
+                    decoding="async" width="40" height="28" data-image-name="Misty.png"
+                    data-image-key="Misty.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/f0/Misty.png/revision/latest/scale-to-width-down/40?cb=20151108105009"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Misty" title="Misty">Misty</a>
+                </sup>
+            </th>
+            <td>Mackerel Tabby </td>
+            <td>Lazy </td>
+            <td>160 </td>
+            <td><img alt="Memento misty.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/4/46/Memento_misty.png/revision/latest/scale-to-width-down/60?cb=20151108144703"
+                    decoding="async" width="60" height="29" data-image-name="Memento misty.png"
+                    data-image-key="Memento_misty.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/4/46/Memento_misty.png/revision/latest/scale-to-width-down/60?cb=20151108144703"
+                    class=" lazyloaded"/>Used Hand Warmer </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Pickles.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/c/c7/Pickles.png/revision/latest/scale-to-width-down/40?cb=20151108105219"
+                    decoding="async" width="40" height="28" data-image-name="Pickles.png"
+                    data-image-key="Pickles.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/c7/Pickles.png/revision/latest/scale-to-width-down/40?cb=20151108105219"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Pickles" title="Pickles">Pickles</a>
+                </sup>
+            </th>
+            <td>Gray &amp; White Tabby </td>
+            <td>Faint-Hearted </td>
+            <td>0 </td>
+            <td><img alt="Memento pickles.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/f/f3/Memento_pickles.png/revision/latest/scale-to-width-down/50?cb=20151108144802"
+                    decoding="async" width="50" height="37" data-image-name="Memento pickles.png"
+                    data-image-key="Memento_pickles.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/f3/Memento_pickles.png/revision/latest/scale-to-width-down/50?cb=20151108144802"
+                    class=" lazyloaded"/>Silent Bell </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Pepper.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/5/50/Pepper.png/revision/latest/scale-to-width-down/40?cb=20151108105233"
+                    decoding="async" width="40" height="29" data-image-name="Pepper.png"
+                    data-image-key="Pepper.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/5/50/Pepper.png/revision/latest/scale-to-width-down/40?cb=20151108105233"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Pepper" title="Pepper">Pepper</a>
+                </sup>
+            </th>
+            <td>Black w/ Odd Eyes </td>
+            <td>Shy </td>
+            <td>165 </td>
+            <td><img alt="Memento pepper.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/2/21/Memento_pepper.png/revision/latest/scale-to-width-down/55?cb=20151108144814"
+                    decoding="async" width="55" height="27" data-image-name="Memento pepper.png"
+                    data-image-key="Memento_pepper.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/2/21/Memento_pepper.png/revision/latest/scale-to-width-down/55?cb=20151108144814"
+                    class=" lazyloaded"/>Toy Mirror </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Patches.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/8/8c/Patches.png/revision/latest/scale-to-width-down/40?cb=20151108105337"
+                    decoding="async" width="40" height="28" data-image-name="Patches.png"
+                    data-image-key="Patches.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/8/8c/Patches.png/revision/latest/scale-to-width-down/40?cb=20151108105337"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Patches" title="Patches">Patches</a>
+                </sup>
+            </th>
+            <td>Orange Patches </td>
+            <td>Jealous </td>
+            <td>80 </td>
+            <td><img alt="Memento patches.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/c/ce/Memento_patches.png/revision/latest/scale-to-width-down/55?cb=20151108145445"
+                    decoding="async" width="55" height="38" data-image-name="Memento patches.png"
+                    data-image-key="Memento_patches.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/ce/Memento_patches.png/revision/latest/scale-to-width-down/55?cb=20151108145445"
+                    class=" lazyloaded"/>Colored Candles </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Gozer.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/f/f8/Gozer.png/revision/latest/scale-to-width-down/40?cb=20151108105350"
+                    decoding="async" width="40" height="28" data-image-name="Gozer.png"
+                    data-image-key="Gozer.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/f8/Gozer.png/revision/latest/scale-to-width-down/40?cb=20151108105350"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Gozer" title="Gozer">Gozer</a>
+                </sup>
+            </th>
+            <td>Tortoiseshell Tabby </td>
+            <td>Sore Loser </td>
+            <td>155 </td>
+            <td><img alt="Memento gozer.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/1/10/Memento_gozer.png/revision/latest/scale-to-width-down/55?cb=20151108145514"
+                    decoding="async" width="55" height="31" data-image-name="Memento gozer.png"
+                    data-image-key="Memento_gozer.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/1/10/Memento_gozer.png/revision/latest/scale-to-width-down/55?cb=20151108145514"
+                    class=" lazyloaded"/>Scuffed Dime </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Cocoa.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/8/8d/Cocoa.png/revision/latest/scale-to-width-down/40?cb=20151108105458"
+                    decoding="async" width="40" height="28" data-image-name="Cocoa.png"
+                    data-image-key="Cocoa.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/8/8d/Cocoa.png/revision/latest/scale-to-width-down/40?cb=20151108105458"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Cocoa" title="Cocoa">Cocoa</a>
+                </sup>
+            </th>
+            <td>Brown Tuxedo </td>
+            <td>Indecisive </td>
+            <td>45 </td>
+            <td><img alt="Memento cocoa.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/5/50/Memento_cocoa.png/revision/latest/scale-to-width-down/45?cb=20151108145536"
+                    decoding="async" width="45" height="41" data-image-name="Memento cocoa.png"
+                    data-image-key="Memento_cocoa.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/5/50/Memento_cocoa.png/revision/latest/scale-to-width-down/45?cb=20151108145536"
+                    class=" lazyloaded"/>Six-sided Die </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Princess.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/f/f2/Princess.png/revision/latest/scale-to-width-down/40?cb=20151108111348"
+                    decoding="async" width="40" height="28" data-image-name="Princess.png"
+                    data-image-key="Princess.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/f2/Princess.png/revision/latest/scale-to-width-down/40?cb=20151108111348"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Princess" title="Princess">Princess</a>
+                </sup>
+            </th>
+            <td>Striped Torbie </td>
+            <td>Ditzy </td>
+            <td>125 </td>
+            <td><img alt="Memento princess.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/5/51/Memento_princess.png/revision/latest/scale-to-width-down/60?cb=20151108145601"
+                    decoding="async" width="60" height="28" data-image-name="Memento princess.png"
+                    data-image-key="Memento_princess.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/5/51/Memento_princess.png/revision/latest/scale-to-width-down/60?cb=20151108145601"
+                    class=" lazyloaded"/>Bird Feather </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Ginger.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/8/85/Ginger.png/revision/latest/scale-to-width-down/40?cb=20151108111523"
+                    decoding="async" width="40" height="28" data-image-name="Ginger.png"
+                    data-image-key="Ginger.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/8/85/Ginger.png/revision/latest/scale-to-width-down/40?cb=20151108111523"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Ginger" title="Ginger">Ginger</a>
+                </sup>
+            </th>
+            <td>Red w/ White Mitts </td>
+            <td>Bashful </td>
+            <td>60 </td>
+            <td><img alt="Memento ginger.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/c/c5/Memento_ginger.png/revision/latest/scale-to-width-down/55?cb=20151108145631"
+                    decoding="async" width="55" height="35" data-image-name="Memento ginger.png"
+                    data-image-key="Memento_ginger.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/c5/Memento_ginger.png/revision/latest/scale-to-width-down/55?cb=20151108145631"
+                    class=" lazyloaded"/>Clean Handkerchief </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Peaches.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/e/ef/Peaches.png/revision/latest/scale-to-width-down/40?cb=20151105125104"
+                    decoding="async" width="40" height="28" data-image-name="Peaches.png"
+                    data-image-key="Peaches.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/e/ef/Peaches.png/revision/latest/scale-to-width-down/40?cb=20151105125104"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Peaches" title="Peaches">Peaches</a>
+                </sup>
+            </th>
+            <td>Tan &amp; Orange </td>
+            <td>Capricious </td>
+            <td>45 </td>
+            <td><img alt="Memento peaches.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/3/3e/Memento_peaches.png/revision/latest/scale-to-width-down/45?cb=20151108150045"
+                    decoding="async" width="45" height="43" data-image-name="Memento peaches.png"
+                    data-image-key="Memento_peaches.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/3/3e/Memento_peaches.png/revision/latest/scale-to-width-down/45?cb=20151108150045"
+                    class=" lazyloaded"/>Bendy Straw </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Spud.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/5/57/Spud.png/revision/latest/scale-to-width-down/40?cb=20151108113318"
+                    decoding="async" width="40" height="28" data-image-name="Spud.png"
+                    data-image-key="Spud.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/5/57/Spud.png/revision/latest/scale-to-width-down/40?cb=20151108113318"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Spud" title="Spud">Spud</a>
+                </sup>
+            </th>
+            <td>Red Tortoiseshell </td>
+            <td>Cautious </td>
+            <td>80 </td>
+            <td><img alt="Memento spud.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/0/0c/Memento_spud.png/revision/latest/scale-to-width-down/45?cb=20151108151114"
+                    decoding="async" width="45" height="29" data-image-name="Memento spud.png"
+                    data-image-key="Memento_spud.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/0c/Memento_spud.png/revision/latest/scale-to-width-down/45?cb=20151108151114"
+                    class=" lazyloaded"/>Eyeglass Lens </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Mack.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/c/c0/Mack.png/revision/latest/scale-to-width-down/40?cb=20151108112951"
+                    decoding="async" width="40" height="28" data-image-name="Mack.png"
+                    data-image-key="Mack.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/c0/Mack.png/revision/latest/scale-to-width-down/40?cb=20151108112951"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Mack" title="Mack">Mack</a>
+                </sup>
+            </th>
+            <td>White Mackerel </td>
+            <td>Determined </td>
+            <td>130 </td>
+            <td><img alt="Memento mack.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/0/02/Memento_mack.png/revision/latest/scale-to-width-down/60?cb=20151108151146"
+                    decoding="async" width="60" height="26" data-image-name="Memento mack.png"
+                    data-image-key="Memento_mack.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/02/Memento_mack.png/revision/latest/scale-to-width-down/60?cb=20151108151146"
+                    class=" lazyloaded"/>Child's Wristband </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Speckles.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/7/78/Speckles.png/revision/latest/scale-to-width-down/40?cb=20151108111757"
+                    decoding="async" width="40" height="28" data-image-name="Speckles.png"
+                    data-image-key="Speckles.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/7/78/Speckles.png/revision/latest/scale-to-width-down/40?cb=20151108111757"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Speckles" title="Speckles">Speckles</a>
+                </sup>
+            </th>
+            <td>Black Patches </td>
+            <td>Lonely </td>
+            <td>40 </td>
+            <td><img alt="Memento speckles.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/2/2a/Memento_speckles.png/revision/latest/scale-to-width-down/55?cb=20151108151228"
+                    decoding="async" width="55" height="34" data-image-name="Memento speckles.png"
+                    data-image-key="Memento_speckles.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/2/2a/Memento_speckles.png/revision/latest/scale-to-width-down/55?cb=20151108151228"
+                    class=" lazyloaded"/>Damaged Spoon </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Willie.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/1/1e/Willie.png/revision/latest/scale-to-width-down/40?cb=20151108111634"
+                    decoding="async" width="40" height="28" data-image-name="Willie.png"
+                    data-image-key="Willie.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/1/1e/Willie.png/revision/latest/scale-to-width-down/40?cb=20151108111634"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Willie" title="Willie">Willie</a>
+                </sup>
+            </th>
+            <td>Black Tabby </td>
+            <td>Crafty </td>
+            <td>75 </td>
+            <td><img alt="Memento willie.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/b/b6/Memento_willie.png/revision/latest/scale-to-width-down/60?cb=20151108151301"
+                    decoding="async" width="60" height="32" data-image-name="Memento willie.png"
+                    data-image-key="Memento_willie.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/b/b6/Memento_willie.png/revision/latest/scale-to-width-down/60?cb=20151108151301"
+                    class=" lazyloaded"/>Worn Postcard </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Rascal.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Rascal.png"
+                    data-image-key="Rascal.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/7/7a/Rascal.png/revision/latest/scale-to-width-down/40?cb=20151108105942"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Rascal" title="Rascal">Rascal</a>
+                </sup>
+            </th>
+            <td>Grey Tuxedo </td>
+            <td>Selfish </td>
+            <td>140 </td>
+            <td><img alt="Memento rascal.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/0/06/Memento_rascal.png/revision/latest/scale-to-width-down/55?cb=20151108151324"
+                    decoding="async" width="55" height="34" data-image-name="Memento rascal.png"
+                    data-image-key="Memento_rascal.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/06/Memento_rascal.png/revision/latest/scale-to-width-down/55?cb=20151108151324"
+                    class=" lazyloaded"/>Warped Container </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Dottie.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/7/7b/Dottie.png/revision/latest/scale-to-width-down/40?cb=20151108105733"
+                    decoding="async" width="40" height="28" data-image-name="Dottie.png"
+                    data-image-key="Dottie.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/7/7b/Dottie.png/revision/latest/scale-to-width-down/40?cb=20151108105733"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Dottie" title="Dottie">Dottie</a>
+                </sup>
+            </th>
+            <td>White Calico </td>
+            <td>Friendly </td>
+            <td>195 </td>
+            <td><img alt="Memento dottie.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/6/69/Memento_dottie.png/revision/latest/scale-to-width-down/45?cb=20151108151348"
+                    decoding="async" width="45" height="38" data-image-name="Memento dottie.png"
+                    data-image-key="Memento_dottie.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/6/69/Memento_dottie.png/revision/latest/scale-to-width-down/45?cb=20151108151348"
+                    class=" lazyloaded"/>Bottle Cap </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Spooky.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/8/88/Spooky.png/revision/latest/scale-to-width-down/40?cb=20151108105716"
+                    decoding="async" width="40" height="28" data-image-name="Spooky.png"
+                    data-image-key="Spooky.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/8/88/Spooky.png/revision/latest/scale-to-width-down/40?cb=20151108105716"
+                    class=" lazyloaded"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Spooky" title="Spooky">Spooky</a>
+                </sup>
+            </th>
+            <td>Grey Tortoiseshell </td>
+            <td>Reserved </td>
+            <td>35 </td>
+            <td><img alt="Memento spooky.png"
+                    src="https://static.wikia.nocookie.net/nekoatsume/images/0/05/Memento_spooky.png/revision/latest/scale-to-width-down/55?cb=20151108151433"
+                    decoding="async" width="55" height="32" data-image-name="Memento spooky.png"
+                    data-image-key="Memento_spooky.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/05/Memento_spooky.png/revision/latest/scale-to-width-down/55?cb=20151108151433"
+                    class=" lazyloaded"/>Gift-wrap Ribbon </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Apricot.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Apricot.png"
+                    data-image-key="Apricot.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/fc/Apricot.png/revision/latest/scale-to-width-down/40?cb=20160324110333"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Apricot" title="Apricot">Apricot</a>
+                </sup>
+            </th>
+            <td>Tan &amp; Orange Tabby </td>
+            <td>Slacker </td>
+            <td>10 </td>
+            <td><img alt="Apricot memento.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="55" height="38" data-image-name="Apricot memento.png"
+                    data-image-key="Apricot_memento.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/4/4e/Apricot_memento.png/revision/latest/scale-to-width-down/55?cb=20160325014329"
+                    class="lazyload"/>Tiny Toothbrush </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Ganache.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Ganache.png"
+                    data-image-key="Ganache.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/9/9d/Ganache.png/revision/latest/scale-to-width-down/40?cb=20160324110435"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Ganache" title="Ganache">Ganache</a>
+                </sup>
+            </th>
+            <td>Chocolate </td>
+            <td>Pragmatic </td>
+            <td>90 </td>
+            <td><img alt="Ganache memento crop.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="55" height="31"
+                    data-image-name="Ganache memento crop.png"
+                    data-image-key="Ganache_memento_crop.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/b/bd/Ganache_memento_crop.png/revision/latest/scale-to-width-down/55?cb=20160325014658"
+                    class="lazyload"/>Puzzle Piece </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Pasty.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Pasty.png"
+                    data-image-key="Pasty.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/fd/Pasty.png/revision/latest/scale-to-width-down/40?cb=20160716084425"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Pasty" title="Pasty">Pasty</a>
+                </sup>
+            </th>
+            <td>Pastel Calico </td>
+            <td>Innocent </td>
+            <td>45 </td>
+            <td><img alt="Memento Pasty.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="52" data-image-name="Memento Pasty.png"
+                    data-image-key="Memento_Pasty.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/2/20/Memento_Pasty.png/revision/latest/scale-to-width-down/40?cb=20160717171707"
+                    class="lazyload"/>Wilted Plant Bulb </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Chip.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Chip.png"
+                    data-image-key="Chip.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/6/6f/Chip.png/revision/latest/scale-to-width-down/40?cb=20160716121707"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Chip" title="Chip">Chip</a>
+                </sup>
+            </th>
+            <td>Cap &amp; Saddle </td>
+            <td>Young Master </td>
+            <td>60 </td>
+            <td><img alt="Memento Chip Ribbon Hair Band.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="50" height="48"
+                    data-image-name="Memento Chip Ribbon Hair Band.png"
+                    data-image-key="Memento_Chip_Ribbon_Hair_Band.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/a/a5/Memento_Chip_Ribbon_Hair_Band.png/revision/latest/scale-to-width-down/50?cb=20160716112628"
+                    class="lazyload"/>Ribbon Hair Band </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Tmp 30441-20161014 210026218212744.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="26"
+                    data-image-name="Tmp 30441-20161014 210026218212744.png"
+                    data-image-key="Tmp_30441-20161014_210026218212744.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/b/b8/Tmp_30441-20161014_210026218212744.png/revision/latest/scale-to-width-down/40?cb=20161015010234"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Macchiato" title="Macchiato">Macchiato</a>
+                </sup>
+            </th>
+            <td>Seal Lynx </td>
+            <td>Sourpuss </td>
+            <td>115 </td>
+            <td><img alt="Memento Macchiato.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="50" height="34" data-image-name="Memento Macchiato.png"
+                    data-image-key="Memento_Macchiato.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/6/67/Memento_Macchiato.png/revision/latest/scale-to-width-down/50?cb=20161015144622"
+                    class="lazyload"/>Leather Choker </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="20161014 210104.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="20161014 210104.png"
+                    data-image-key="20161014_210104.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/d/d1/20161014_210104.png/revision/latest/scale-to-width-down/40?cb=20161015014414"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Melange" title="Melange">Melange</a>
+                </sup>
+            </th>
+            <td>Blue Lynx </td>
+            <td>Calm </td>
+            <td>15 </td>
+            <td><img alt="Memento Melange.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="50" height="43" data-image-name="Memento Melange.png"
+                    data-image-key="Memento_Melange.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/7/72/Memento_Melange.png/revision/latest/scale-to-width-down/50?cb=20161015155950"
+                    class="lazyload"/>Cotton Scarf </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Chocola.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="26" data-image-name="Chocola.png"
+                    data-image-key="Chocola.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/c3/Chocola.png/revision/latest/scale-to-width-down/40?cb=20170720203248"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Chocola" title="Chocola">Chocola</a>
+                </sup>
+            </th>
+            <td>Chocolate Point </td>
+            <td>Forgetful </td>
+            <td>155 </td>
+            <td><img alt="Memento Chocola.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="45" height="29" data-image-name="Memento Chocola.png"
+                    data-image-key="Memento_Chocola.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/4/48/Memento_Chocola.png/revision/latest/scale-to-width-down/45?cb=20170723103108"
+                    class="lazyload"/>Stiff Paint </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Willow.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Willow.png"
+                    data-image-key="Willow.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/b/b2/Willow.png/revision/latest/scale-to-width-down/40?cb=20170720141654"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Willow" title="Willow">Willow</a>
+                </sup>
+            </th>
+            <td>Grey Patches </td>
+            <td>Guileless </td>
+            <td>80 </td>
+            <td><img alt="Willow Memento.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="45" height="46" data-image-name="Willow Memento.png"
+                    data-image-key="Willow_Memento.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/f2/Willow_Memento.png/revision/latest/scale-to-width-down/45?cb=20170721003804"
+                    class="lazyload"/>Forgotten Key </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Sooty.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="29" data-image-name="Sooty.png"
+                    data-image-key="Sooty.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/5/5e/Sooty.png/revision/latest/scale-to-width-down/40?cb=20171231035358"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Sooty" title="Sooty">Sooty</a>
+                </sup>
+            </th>
+            <td>Black Spots </td>
+            <td>Whimsical </td>
+            <td>65 </td>
+            <td><img alt="Memento Sooty.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="45" height="29" data-image-name="Memento Sooty.png"
+                    data-image-key="Memento_Sooty.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/2/2b/Memento_Sooty.png/revision/latest/scale-to-width-down/45?cb=20171231040537"
+                    class="lazyload"/>Game Pieces </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Quicksilver.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Quicksilver.png"
+                    data-image-key="Quicksilver.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/f/f8/Quicksilver.png/revision/latest/scale-to-width-down/40?cb=20190330231547"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Quicksilver" title="Quicksilver">Quicksilver</a>
+                </sup>
+            </th>
+            <td>Silverpoint </td>
+            <td>Mooch </td>
+            <td>105 </td>
+            <td><img alt="Memento Quicksilver.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="45" height="33"
+                    data-image-name="Memento Quicksilver.png"
+                    data-image-key="Memento_Quicksilver.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/c4/Memento_Quicksilver.png/revision/latest/scale-to-width-down/45?cb=20190424015518"
+                    class="lazyload"/>Handmade Otedama </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Maple.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Maple.png"
+                    data-image-key="Maple.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/6/61/Maple.png/revision/latest/scale-to-width-down/40?cb=20190424023022"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Maple" title="Maple">Maple</a>
+                </sup>
+            </th>
+            <td>Orange &amp; White Bullseye </td>
+            <td>Moody </td>
+            <td>99 </td>
+            <td><img alt="Memento Maple.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="45" height="49" data-image-name="Memento Maple.png"
+                    data-image-key="Memento_Maple.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/0d/Memento_Maple.png/revision/latest/scale-to-width-down/45?cb=20190424023132"
+                    class="lazyload"/>Old Roll Film </td>
+        </tr>
+        <tr style="background-color: white;">
+            <th style="height: 75px;">
+                <img alt="Caramel.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="40" height="28" data-image-name="Caramel.png"
+                    data-image-key="Caramel.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/09/Caramel.png/revision/latest/scale-to-width-down/40?cb=20190424022557"
+                    class="lazyload"/>
+                <br/>
+                <sup>
+                    <a href="/wiki/Caramel" title="Caramel">Caramel</a>
+                </sup>
+            </th>
+            <td>Spotted </td>
+            <td>Tomboy </td>
+            <td>205 </td>
+            <td><img alt="CatGiftSeaGlass.png"
+                    src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+                    decoding="async" width="45" height="24" data-image-name="CatGiftSeaGlass.png"
+                    data-image-key="CatGiftSeaGlass.png"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/c/ce/CatGiftSeaGlass.png/revision/latest/scale-to-width-down/45?cb=20190531163011"
+                    class="lazyload"/>Sea Glass </td>
+        </tr>
+    </tbody>
+    <tfoot/>
+</table>
