@@ -19,9 +19,9 @@ date: 2018-08-06
 
 5. Here are some HTML examples that you can try:
   
-    a. &lt;a href=&quot;www.website.com&quot; title=&quot;title text&quot;&gt;text to display&lt;/a&gt;
+    a. Links: &lt;a href=&quot;www.website.com&quot; title=&quot;title text&quot;&gt;text to display&lt;/a&gt;
     
-    b. &lt;p&gt;Paragraph text&lt;/p&gt;
+    b. Paragraphs: &lt;p&gt;Paragraph text&lt;/p&gt;
     
 6. Here's my [example timeline](https://nhomenda.github.io/blog/2018/08/06/timeline-example) that I showed today.
     
