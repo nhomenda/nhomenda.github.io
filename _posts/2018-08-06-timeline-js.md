@@ -13,7 +13,9 @@ date: 2018-08-06
 
 2. Next, copy the URL (the one in the browser bar, **not the one in the "Publish to the Web" window**) of your spreadsheet and preview it on the [TimelineJS Site](https://timeline.knightlab.com/#make-step-3).
 
-3. Here's an [image](https://cdn.theatlantic.com/assets/media/img/mt/2015/04/AshevilleScene/lead_960.jpg?1430308869) for testing purposes but you can easily use images from Flickr or anywhere else.
+3. Here's an [image](https://cdn.theatlantic.com/assets/media/img/mt/2015/04/AshevilleScene/lead_960.jpg?1430308869) for testing purposes. You can use any image hosted on the web with a file extension (e.g. .png, .jpg, etc.).
+   * [Wikimedia Commons](https://commons.wikimedia.org/)
+   * [Library of Congress Prints and Photographs](http://www.loc.gov/pictures/)
 
 4. Here are some [background colors](https://www.w3schools.com/colors/colors_names.asp) you can use to customize the look of your timeline slides, or you can use another image.
 
