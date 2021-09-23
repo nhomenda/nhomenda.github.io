@@ -1,0 +1,22 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nhomenda.github.io/iiif/hoagy-collection.json",
+    "@type": "sc:Collection",
+    "label": "Hoagy Carmichael Photograph Collection",
+    "description": "https://digitalcollections.iu.edu",
+    "attribution": "Indiana University Libraries",
+    "manifests": [{
+        "@id": "https://digitalcollections.iu.edu/concern/images/jh343s30f/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Howard Carmichael standing on telephone pole, Montana ca. 1910."
+      }, {
+        "@id": "https://digitalcollections.iu.edu/concern/images/8336h190k/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Hoagy Carmichael's three sisters, Martha, Joanne, and Georgia, standing outside a house, 1918."
+      }, {
+        "@id": "https://digitalcollections.iu.edu/concern/images/m326m172d/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "Joanne Carmichael at 2½ years old."
+      },
+    ]
+  }
