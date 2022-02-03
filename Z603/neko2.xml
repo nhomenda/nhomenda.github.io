@@ -21,6 +21,7 @@
             <th style="height: 75px;">
                 <img alt="Snowball.png"
                     src="https://static.wikia.nocookie.net/nekoatsume/images/0/04/Snowball.png/revision/latest/scale-to-width-down/40?cb=20151108102047"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/0/04/Snowball.png/revision/latest/scale-to-width-down/40?cb=20151108102047"
                     decoding="async" width="40" height="28" data-image-name="Snowball.png"
                     data-image-key="Snowball.png"/>
                 <br/>
@@ -33,6 +34,7 @@
             <td>80 </td>
             <td><img alt="Memento snowball.png"
                     src="https://static.wikia.nocookie.net/nekoatsume/images/2/24/Memento_snowball.png/revision/latest/scale-to-width-down/60?cb=20151108130138"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/2/24/Memento_snowball.png/revision/latest/scale-to-width-down/60?cb=20151108130138"
                     decoding="async" width="60" height="42" data-image-name="Memento snowball.png"
                     data-image-key="Memento_snowball.png"/>Flowered Collar </td>
         </tr>
@@ -40,6 +42,7 @@
             <th style="height: 75px;">
                 <img alt="Smokey.png"
                     src="https://static.wikia.nocookie.net/nekoatsume/images/b/b2/Smokey.png/revision/latest/scale-to-width-down/40?cb=20151108103019"
+                    data-src="https://static.wikia.nocookie.net/nekoatsume/images/b/b2/Smokey.png/revision/latest/scale-to-width-down/40?cb=20151108103019"
                     decoding="async" width="40" height="28" data-image-name="Smokey.png"
                     data-image-key="Smokey.png"/>
                 <br/>
@@ -373,14 +376,12 @@
             <td>Brown &amp; White Tabby </td>
             <td>Laid Back </td>
             <td>30 </td>
-            <td><a
-                    href="https://static.wikia.nocookie.net/nekoatsume/images/4/4b/Memento_breezy.png/revision/latest?cb=20151108144509"
-                    class="image"><img alt="Memento breezy.png"
+            <td><img alt="Memento breezy.png"
                         src="https://static.wikia.nocookie.net/nekoatsume/images/4/4b/Memento_breezy.png/revision/latest/scale-to-width-down/50?cb=20151108144509"
                         decoding="async" width="50" height="31" data-image-name="Memento breezy.png"
                         data-image-key="Memento_breezy.png"
                         data-src="https://static.wikia.nocookie.net/nekoatsume/images/4/4b/Memento_breezy.png/revision/latest/scale-to-width-down/50?cb=20151108144509"
-                        class=" lazyloaded"/></a>Hourglass </td>
+                        class=" lazyloaded"/>Hourglass </td>
         </tr>
         <tr style="background-color: white;">
             <th style="height: 75px;">
