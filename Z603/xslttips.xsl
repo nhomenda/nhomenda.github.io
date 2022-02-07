@@ -15,7 +15,7 @@
         <xsl:variable name="tips2">
             <xsl:apply-templates mode="tips2" select="$tips1"/>
         </xsl:variable>
-        <xsl:copy-of select="$tips1"/>
+        <xsl:copy-of select="$tips2"/>
     </xsl:template>
     
     <xsl:template mode="tips1" match="node()|@*">
@@ -40,26 +40,26 @@
                 <xsl:call-template name="paragrapher">
                     <xsl:with-param name="pString" select="substring-before($pString, '&#xA;')"/>
                 </xsl:call-template>
-                <!--<xsl:call-template name="paragrapher">
+                <xsl:call-template name="paragrapher">
                     <xsl:with-param name="pString" select="substring-after($pString, '&#xA;')"/>
-                </xsl:call-template>-->
+                </xsl:call-template>
             </xsl:when>
             <xsl:when test="normalize-space($pString)">
-                <p><!--<xsl:value-of select="normalize-space($pString)"/>-->TEST</p>
+                <p><xsl:value-of select="normalize-space($pString)"/></p>
             </xsl:when>
         </xsl:choose>
     </xsl:template>
     
-    <!--<xsl:template mode="tips2" match="node()|@*">
+    <xsl:template mode="tips2" match="node()|@*">
         <xsl:copy>
             <xsl:apply-templates mode="tips2" select="node()|@*"/>
         </xsl:copy>
-    </xsl:template>-->
+    </xsl:template>
     
-    <!--<xsl:template mode="tips2" match="p">
+    <xsl:template mode="tips2" match="p">
         <h2><xsl:value-of select="substring-before(., ':')"/></h2>
         <xsl:copy>
             <xsl:value-of select="substring-after(., ': ')"/>
         </xsl:copy>
-    </xsl:template>-->
+    </xsl:template>
 </xsl:stylesheet>
