@@ -1,10 +1,12 @@
 h2.tl-headline a {
-  font-size: 16px !important;
-  font-family: 'IM Fell English SC', serif !important;
+  font-family: 'IM Fell English SC', serif;
   color: #004663 !important;
 }
 h2.tl-headline {
-  font-size: 16px !important;
-  font-family: 'IM Fell English SC', serif !important;
-  color: #004663 !important;
+  font-family: 'IM Fell English SC', serif;
+  color: #004663;
 }
+h3.tl-headline-date {
+  padding-bottom: 10px;
+}
+
