@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xmlns="http://www.tei-c.org/ns/1.0"
      xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.dlib.indiana.edu/lib/xml/tei/p5/general.xsd"
