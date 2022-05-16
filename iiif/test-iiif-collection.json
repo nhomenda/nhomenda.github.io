@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18031511",
+  "@type": "sc:Collection",
+  "label": "Newspaper Title, responsiblity note, dates, etc.",
+  "metadata": [
+    {
+      "label": "Publication/creation",
+      "value": "London : Academic Press, 1968-"
+    },
+    {
+      "label": "Physical description",
+      "value": "volumes : illustrations ; 26 cm"
+    },
+    {
+      "label": "Contributors",
+      "value": "Bittar, E. Edward.; Bittar, Neville."
+    },
+    {
+      "label": "Notes",
+      "value": "Copy 1 Vol. 3 1969 Note: 1971 reprint.  22400036674; Copy 1 Vol. 4 1969 Note: 1971 reprint. 22400036656; Copy 1 Vol. 5 1969 Note: 1970 reprint. 22400036834"
+    },
+    {
+      "label": "Subjects",
+      "value": "Physiology, Pathological; Cell Biology; Physiology; Biochemistry; Medicine"
+    }
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "logo": "https://iiif.wellcomecollection.org/logos/wellcome-collection-black.png",
+  "related": {
+    "@id": "https://wellcomecollection.org/works/ysmqsfhg",
+    "format": "text/html",
+    "label": "The biological basis of medicine / edited by E. Edward Bittar ; assisted by Neville Bittar."
+  },
+  "seeAlso": {
+    "@id": "https://api.wellcomecollection.org/catalogue/v2/works/ysmqsfhg",
+    "profile": "https://api.wellcomecollection.org/catalogue/v2/context.json",
+    "format": "application/json",
+    "label": "Wellcome Collection Catalogue API"
+  },
+  "viewingHint": "multi-part",
+  "within": "https://iiif.wellcomecollection.org/presentation/v2/collections/contributors/rz39rquh",
+  "manifests": [
+    {
+      "@id": "https://dcadmin.dlib.indiana.edu/concern/archival_materials/kp78gh85m/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Item 1",
+      "thumbnail": {
+  "@id": "https://iiif.uits.iu.edu/iiif/2/ft848r967%2Ffiles%2Fd074099d-87c5-434b-aee3-048381e5a9fa%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://iiif.uits.iu.edu/iiif/2/ft848r967%2Ffiles%2Fd074099d-87c5-434b-aee3-048381e5a9fa%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 626,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 61,
+        "height": 100
+      },
+      {
+        "width": 122,
+        "height": 200
+      },
+      {
+        "width": 245,
+        "height": 400
+      },
+      {
+        "width": 626,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin.dlib.indiana.edu/concern/archival_materials/vh53wx09c/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Item 2",
+      "thumbnail": {
+  "@id": "https://iiif.uits.iu.edu/iiif/2/2801ph86w%2Ffiles%2Ff549162f-5dd1-4e06-bbc5-d5f726913728%2Ffcr:versions%2Fversion1/full/67,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://iiif.uits.iu.edu/iiif/2/2801ph86w%2Ffiles%2Ff549162f-5dd1-4e06-bbc5-d5f726913728%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 691,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 67,
+        "height": 100
+      },
+      {
+        "width": 135,
+        "height": 200
+      },
+      {
+        "width": 270,
+        "height": 400
+      },
+      {
+        "width": 691,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin.dlib.indiana.edu/concern/archival_materials/ws859h00n/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Item 3",
+      "thumbnail": {
+  "@id": "https://iiif.uits.iu.edu/iiif/2/cj82k900c%2Ffiles%2F0c7f6938-c18e-46f8-b617-8b76bab06218%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://iiif.uits.iu.edu/iiif/2/cj82k900c%2Ffiles%2F0c7f6938-c18e-46f8-b617-8b76bab06218%2Ffcr:versions%2Fversion1/info.json",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 690,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 67,
+        "height": 100
+      },
+      {
+        "width": 135,
+        "height": 200
+      },
+      {
+        "width": 269,
+        "height": 400
+      },
+      {
+        "width": 690,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin.dlib.indiana.edu/concern/archival_materials/4j03d0940/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Item 4",
+      "thumbnail": {
+  "@id": "https://iiif.uits.iu.edu/iiif/2/6h440v04g%2Ffiles%2F40f91b00-b6d4-4468-9028-e780676cb214%2Ffcr:versions%2Fversion1/full/66,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://iiif.uits.iu.edu/iiif/2/6h440v04g%2Ffiles%2F40f91b00-b6d4-4468-9028-e780676cb214%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 676,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 66,
+        "height": 100
+      },
+      {
+        "width": 132,
+        "height": 200
+      },
+      {
+        "width": 264,
+        "height": 400
+      },
+      {
+        "width": 676,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin.dlib.indiana.edu/concern/archival_materials/5999n483t/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Item 5",
+      "thumbnail": {
+  "@id": "https://iiif.uits.iu.edu/iiif/2/dz010r639%2Ffiles%2Fad208968-b814-4eae-bbac-f22613d49b28%2Ffcr:versions%2Fversion1/full/70,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://iiif.uits.iu.edu/iiif/2/dz010r639%2Ffiles%2Fad208968-b814-4eae-bbac-f22613d49b28%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    }
+  ]
+}
