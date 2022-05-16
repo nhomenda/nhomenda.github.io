@@ -1,8 +1,8 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18031511",
+  "@id": "https://nhomenda.github.io/iiif/test-iiif-collection.json",
   "@type": "sc:Collection",
-  "label": "Newspaper Title, responsiblity note, dates, etc.",
+  "label": "Newspaper Title, responsibility note, dates, etc.",
   "metadata": [
     {
       "label": "Publication/creation",
