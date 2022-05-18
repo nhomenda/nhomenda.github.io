@@ -2,6 +2,7 @@
 layout: post
 title: "ArtSteps Exhibit"
 date: 2017-07-13
+tags: exhibit
 ---
 <div class="blurb">
 	<p>Here is my exhibit which I have embedded as an object.</p>
