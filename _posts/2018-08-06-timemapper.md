@@ -2,6 +2,7 @@
 layout: post
 title: "Timemapper Example"
 date: 2018-08-06
+tags: tutorial
 ---
 
 <div class="blurb">
