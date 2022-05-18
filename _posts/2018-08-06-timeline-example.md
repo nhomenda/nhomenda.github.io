@@ -2,6 +2,7 @@
 layout: post
 title: "Timeline JS Example"
 date: 2018-08-06
+tags: exhibit
 ---
 <div class="blurb">
 	<p>Here is my <a href="https://timeline.knightlab.com/">Timeline JS</a> timeline.</p>
