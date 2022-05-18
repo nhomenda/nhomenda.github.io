@@ -2,6 +2,7 @@
 layout: post
 title: "Tableau"
 date: 2021-02-16
+tags: tutorial
 ---
 <div class="blurb">
 	<p>Here is my first Tableau visualization embedded below...</p>
