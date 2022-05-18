@@ -2,6 +2,7 @@
 layout: post
 title: "TimelineJS"
 date: 2018-08-06
+tags: tutorial
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GanttChartAnatomy.svg/1200px-GanttChartAnatomy.svg.png" alt="Gantt Chart" width="450px"/>
 
