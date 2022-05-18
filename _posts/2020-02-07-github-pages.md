@@ -2,6 +2,7 @@
 layout: post
 title: "GitHub Pages Code Snippets"
 date: 2020-02-07
+tags: tutorial jekyll blog
 ---
 <div class="blurb">
 <p>Snippet 1: <code>index.html</code></p>
