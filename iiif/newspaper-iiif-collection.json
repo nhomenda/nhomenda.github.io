@@ -1,0 +1,466 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nhomenda.github.io/iiif/newspaper-iiif-collection.json",
+  "@type": "sc:Collection",
+  "label": "Newspaper Title, responsibility note, dates, etc.",
+  "metadata": [
+    {
+      "label": "Publication/creation",
+      "value": "South Bend : Indiana University South Bend, 1969-"
+    },
+    {
+      "label": "Physical description",
+      "value": "volumes : illustrations ; 26 cm"
+    },
+    {
+      "label": "Contributors",
+      "value": "Bittar, E. Edward.; Bittar, Neville."
+    },
+    {
+      "label": "Notes",
+      "value": "Copy 1 Vol. 3 1969 Note: 1971 reprint.  22400036674; Copy 1 Vol. 4 1969 Note: 1971 reprint. 22400036656; Copy 1 Vol. 5 1969 Note: 1970 reprint. 22400036834"
+    },
+    {
+      "label": "Subjects",
+      "value": "Physiology, Pathological; Cell Biology; Physiology; Biochemistry; Medicine"
+    }
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "logo": "https://iiif.wellcomecollection.org/logos/wellcome-collection-black.png",
+  "viewingHint": "multi-part",
+  "within": "https://iiif.wellcomecollection.org/presentation/v2/collections/contributors/rz39rquh",
+  "manifests": [
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/3n203z55h/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, March 27, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/9p2909752%2Ffiles%2F7c5d0389-fba0-40e8-93fa-fab932325e82%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/9p2909752%2Ffiles%2F7c5d0389-fba0-40e8-93fa-fab932325e82%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 626,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 61,
+        "height": 100
+      },
+      {
+        "width": 122,
+        "height": 200
+      },
+      {
+        "width": 245,
+        "height": 400
+      },
+      {
+        "width": 626,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/9z903028c/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, April 8, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/tm70mv47z%2Ffiles%2F372608ca-ae7a-49e5-9912-f8849ae41c78%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/tm70mv47z%2Ffiles%2F372608ca-ae7a-49e5-9912-f8849ae41c78%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 691,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 67,
+        "height": 100
+      },
+      {
+        "width": 135,
+        "height": 200
+      },
+      {
+        "width": 270,
+        "height": 400
+      },
+      {
+        "width": 691,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/jq085k36v/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, April 15, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/s4655h08j%2Ffiles%2Ff9c48ac4-5e47-4ffa-af5b-eb8d3d58b0a1%2Ffcr:versions%2Fversion1/full/600,/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/s4655h08j%2Ffiles%2Ff9c48ac4-5e47-4ffa-af5b-eb8d3d58b0a1%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 690,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 67,
+        "height": 100
+      },
+      {
+        "width": 135,
+        "height": 200
+      },
+      {
+        "width": 269,
+        "height": 400
+      },
+      {
+        "width": 690,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/m900nt97k/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, April 28, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/9z9030337%2Ffiles%2F280a3b14-5544-468b-99f3-9a22960aa95b%2Ffcr:versions%2Fversion1/full/600,/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/9z9030337%2Ffiles%2F280a3b14-5544-468b-99f3-9a22960aa95b%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 676,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 66,
+        "height": 100
+      },
+      {
+        "width": 132,
+        "height": 200
+      },
+      {
+        "width": 264,
+        "height": 400
+      },
+      {
+        "width": 676,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/05741s04n/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, September 10, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/8336h248s%2Ffiles%2F3c2762d0-4162-4d78-a96c-7e9df5c2d85a%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/8336h248s%2Ffiles%2F3c2762d0-4162-4d78-a96c-7e9df5c2d85a%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/zw12z571z/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, September 25, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/3n203z547%2Ffiles%2F734dad22-1d35-43e9-8d90-229bd81be5d0%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/3n203z547%2Ffiles%2F734dad22-1d35-43e9-8d90-229bd81be5d0%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/df65v843c/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, October 9, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/fn106z44r%2Ffiles%2Fd2dbee98-dc57-4922-bd9a-435e3d086c31%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/fn106z44r%2Ffiles%2Fd2dbee98-dc57-4922-bd9a-435e3d086c31%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/4q77fr665/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, October 23, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/j9602104f%2Ffiles%2F2743567a-26a1-4a16-91e4-00b460704456%2Ffcr:versions%2Fversion1/full/600,/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/j9602104f%2Ffiles%2F2743567a-26a1-4a16-91e4-00b460704456%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/5h73pw64q/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, November 6, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/2j62s536f%2Ffiles%2F9d5d31a6-8e03-467b-bf56-2e0d3eb09579%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/2j62s536f%2Ffiles%2F9d5d31a6-8e03-467b-bf56-2e0d3eb09579%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/7p88ch07g/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, November 20, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/zw12z5727%2Ffiles%2F2b9030f8-7b11-494e-bec3-3476e29a596e%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/zw12z5727%2Ffiles%2F2b9030f8-7b11-494e-bec3-3476e29a596e%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/rx913q308/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, December 4, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/4j03d0117%2Ffiles%2F61b7a8d9-a7d7-42c8-8450-ff6eaedbbb95%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/4j03d0117%2Ffiles%2F61b7a8d9-a7d7-42c8-8450-ff6eaedbbb95%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    },
+    {
+      "@id": "https://dcadmin-devel.dlib.indiana.edu/concern/paged_resources/7d278t491/manifest",
+      "@type": "sc:Manifest",
+      "label": "IU South Bend Preface, December 18, 1969",
+      "thumbnail": {
+  "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/4m90dw06d%2Ffiles%2Fb199b62f-b5ba-453a-88aa-15dc842afe1c%2Ffcr:versions%2Fversion1/full/60,100/0/default.jpg",
+  "@type": "dctypes:Image",
+  "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://dcadmin-devel.dlib.indiana.edu/iiif/2/4m90dw06d%2Ffiles%2Fb199b62f-b5ba-453a-88aa-15dc842afe1c%2Ffcr:versions%2Fversion1",
+    "profile": "http://iiif.io/api/image/2/level0.json",
+    "protocol": "http://iiif.io/api/image",
+    "width": 712,
+    "height": 1024,
+    "sizes": [
+      {
+        "width": 70,
+        "height": 100
+      },
+      {
+        "width": 139,
+        "height": 200
+      },
+      {
+        "width": 278,
+        "height": 400
+      },
+      {
+        "width": 712,
+        "height": 1024
+      }
+    ]
+  }
+},
+      "within": ""
+    }
+  ]
+}
