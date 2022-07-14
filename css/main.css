@@ -131,3 +131,7 @@ p.fira {
     font-family:'FiraSans';  
     color: green;
 }
+
+.small {
+    font-size: .6em;
+}
