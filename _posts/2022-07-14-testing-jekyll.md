@@ -42,6 +42,7 @@ date: 2022-07-14
 	<p><a href="https://docs.google.com/spreadsheets/d/1LlYBnfhvD3ZUXMGZ8e52UwYp-xn_NeWmaGBx7VBz5V8/edit#gid=0">Here's the spreadsheet template</a>.</p>
 	<p>My example map uses a map I published to my account and embedded on this site. You can get a free account by logging in with your Twitter account. You can also publish anonymously, as long as your Google Sheet is published to the web.</p>
 		<p><a href="http://timemapper.okfnlabs.org/anon/v4dxy1-herman-b-wells-history">Here's the same map as above, published anonymously</a>.</p>
+	<p>If you're looking for images of your alum, you can try <a href="https://issuu.com/arbutusyearbook/docs">Arbutus Yearbooks</a> or the <a href="https://webapp1.dlib.indiana.edu/archivesphotos/index.jsp">IU Archives Photographs</a> websites.</p>
 	<hr/>
 <h2>Activity 3: Retrospective and Project Planning</h2>
 <p>Now we will reflect on what we've done today and review the effort we spent building these miniature research projects.</p>
