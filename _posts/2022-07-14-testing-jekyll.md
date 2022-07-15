@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Scholarship, Timelines, and Timemaps"
+title: "Digital Scholarship and Timemaps"
 date: 2022-07-14
 ---
 <div class="blurb">
