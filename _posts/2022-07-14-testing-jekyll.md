@@ -31,17 +31,17 @@ date: 2022-07-14
     <li>Where were they born?</li>
   </ul>
 <h3>Step 3</h3>
-<p>Can you find four significant events in this person's/dorm's history and the location where they occurred?</p>
+<p>Can you find three significant events in this person's/dorm's history and the geographic location where they occurred?</p>
 <hr/>
 <h2>Activity 2: TimeMapper</h2>
-<p>Similar to Timeline JS, TimeMapper uses Google Sheets to publish interactive time maps, which situate individual events on a map.</p>
+<p>TimeMapper uses Google Sheets to publish interactive time maps, which position individual events on a map.</p>
 	<p>To get started, let's look at my <a href="https://nhomenda.github.io/blog/2018/08/06/timemapper">example</a>.</p>
 	<p><a href="https://docs.google.com/spreadsheets/d/1ngHCjZJAp_yNeeIEpE3Y4L6xAwDORDy9EQNeCj7JXWc/edit#gid=0">Here's my spreadsheet data behind it</a>.</p>
 	<p><a href="https://docs.google.com/spreadsheets/d/1LlYBnfhvD3ZUXMGZ8e52UwYp-xn_NeWmaGBx7VBz5V8/edit#gid=0">Here's the spreadsheet template</a>.</p>
 	<p>My example map uses a map I published to my account and embedded on this site. You can get a free account by logging in with your Twitter account. You can also publish anonymously, as long as your Google Sheet is published to the web.</p>
 		<p><a href="http://timemapper.okfnlabs.org/anon/v4dxy1-herman-b-wells-history">Here's the same map as above, published anonymously</a>.</p>
 	<hr/>
-<h2>Activity 4: Retrospective and Project Planning</h2>
+<h2>Activity 3: Retrospective and Project Planning</h2>
 <p>Now we will reflect on what we've done today and review the effort we spent building these miniature research projects.</p>
 	<p>Consider these activities:</p>
 	<ul>
