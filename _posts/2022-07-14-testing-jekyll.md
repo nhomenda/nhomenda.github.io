@@ -18,6 +18,7 @@ date: 2022-07-14
     <li>Ben Higgins</li>
     <li>Kevin Kline</li>
     <li>Victor Oladipo</li>
+    <li>Elinor Ostrom</li>
     <li>Ryan Murphy</li>
     <li>Trista Sutter (née Rehn)</li>
     <li>James Watson</li>
