@@ -6,32 +6,34 @@ date: 2022-07-14
 <div class="blurb">
 	<p>Here are activities we will do today to learn about digital scholarship.</p>
   <h2>Activity 1: History of IU Residence Halls</h2>
-  <p>Most of you will be living in an IU residence hall in Fall 2022. A lot of them are named after people.</p>
-  <p>Today we'll each do some tiny research projects about these people and the residence halls named after them.</p>
+  <p>Today we'll each do some tiny research projects about notable IU Alumni.</p>
   <h3>Step 1</h3>
-  <p>Pick a residence hall from this list. It doesn't have to be the one you'll live in:</p>
+  <p>Pick an alumnus from this list:</p>
   <ul>
-    <li>Collins</li>
-    <li>Eigenmann</li>
-    <li>Teter</li>
-    <li>Wright</li>
-    <li>Briscoe</li>
-    <li>Foster</li>
-    <li>McNutt</li>
-    <li>Read</li>
-    <li>Wells</li>
-    <li>Willkie</li>
+    <li>Avery Brooks</li>
+    <li>Joe Buck</li>
+    <li>Suzanne Collins</li>
+    <li>Laverne Cox</li>
+    <li>Mark Cuban</li>
+    <li>Ben Higgins</li>
+    <li>Kevin Kline</li>
+    <li>Victor Oladipo</li>
+    <li>Ryan Murphy</li>
+    <li>Trista Sutter (née Rehn)</li>
+    <li>James Watson</li>
+    <li>Mike Woodson</li>
   </ul>
   <h3>Step 2</h3>
 	<p>See which of these questions you can answer in 10 minutes of searching:</p>
   <ul>
-    <li>Who is this residence hall's namesake?</li>
-    <li>When was the residence hall dedicated?</li>
-    <li>What are their birth and death dates?</li>
-    <li>Where were they born?</li>
+    <li>How is this person best known?</li>
+    <li>When and where were they born?</li>
+    <li>When did they go to IU (your best guess)?</li>
+    <li>Where did they go after IU?</li>
+    <li>Where are they now?</li>
   </ul>
 <h3>Step 3</h3>
-<p>Can you find three significant events in this person's/dorm's history and the geographic location where they occurred?</p>
+<p>Can you find times (years are okay) and places (cities are okay) for the above?</p>
 <hr/>
 <h2>Activity 2: TimeMapper</h2>
 <p>TimeMapper uses Google Sheets to publish interactive time maps, which position individual events on a map.</p>
