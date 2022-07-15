@@ -5,22 +5,20 @@ date: 2022-07-14
 ---
 <div class="blurb">
 	<p>Here are activities we will do today to learn about digital scholarship.</p>
-  <h2>Activity 1: History of IU Residence Halls</h2>
-  <p>Today we'll each do some tiny research projects about notable IU Alumni.</p>
+  <h2>Activity 1: Notable IU Attendees</h2>
+  <p>Today we'll each do some tiny research projects about notable IU Attendees.</p>
   <h3>Step 1</h3>
-  <p>Pick an alumnus from this list:</p>
+  <p>Pick an individual from this list:</p>
   <ul>
     <li>Avery Brooks</li>
     <li>Joe Buck</li>
     <li>Suzanne Collins</li>
     <li>Laverne Cox</li>
     <li>Mark Cuban</li>
-    <li>Ben Higgins</li>
     <li>Kevin Kline</li>
+    <li>Sylvia McNair</li>
     <li>Victor Oladipo</li>
-    <li>Elinor Ostrom</li>
     <li>Ryan Murphy</li>
-    <li>Trista Sutter (née Rehn)</li>
     <li>James Watson</li>
     <li>Mike Woodson</li>
   </ul>
