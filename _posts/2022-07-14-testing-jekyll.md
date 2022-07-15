@@ -6,7 +6,7 @@ date: 2022-07-14
 <div class="blurb">
 	<p>Here are activities we will do today to learn about digital scholarship.</p>
   <h2>Activity 1: History of IU Residence Halls</h2>
-  <p>Most of you will be living in an IU residence hall in Fall 2021. A lot of them are named after people.</p>
+  <p>Most of you will be living in an IU residence hall in Fall 2022. A lot of them are named after people.</p>
   <p>Today we'll each do some tiny research projects about these people and the residence halls named after them.</p>
   <h3>Step 1</h3>
   <p>Pick a residence hall from this list. It doesn't have to be the one you'll live in:</p>
