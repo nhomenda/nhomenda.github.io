@@ -16,6 +16,7 @@ date: 2022-07-14
     <li>Laverne Cox</li>
     <li>Mark Cuban</li>
     <li>Kevin Kline</li>
+    <li>Oksana Markarova</li>
     <li>Sylvia McNair</li>
     <li>Victor Oladipo</li>
     <li>Ryan Murphy</li>
