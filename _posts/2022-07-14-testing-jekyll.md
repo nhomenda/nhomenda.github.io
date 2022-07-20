@@ -42,19 +42,22 @@ date: 2022-07-14
 	<p><a href="https://docs.google.com/spreadsheets/d/1LlYBnfhvD3ZUXMGZ8e52UwYp-xn_NeWmaGBx7VBz5V8/edit#gid=0">Here's the spreadsheet template</a>.</p>
 	<p>My example map uses a map I published to my account and embedded on this site. You can get a free account by logging in with your Twitter account. You can also publish anonymously, as long as your Google Sheet is published to the web.</p>
 		<p><a href="http://timemapper.okfnlabs.org/anon/v4dxy1-herman-b-wells-history">Here's the same map as above, published anonymously</a>.</p>
-	<p>If you're looking for images of your alum, you can try <a href="https://issuu.com/arbutusyearbook/docs">Arbutus Yearbooks</a> or the <a href="https://webapp1.dlib.indiana.edu/archivesphotos/index.jsp">IU Archives Photographs</a> websites.</p>
+	<p>To find a couple images of your alum, you can try <a href="https://issuu.com/arbutusyearbook/docs">Arbutus Yearbooks</a> or the <a href="https://webapp1.dlib.indiana.edu/archivesphotos/index.jsp">IU Archives Photographs</a> websites.</p>
+	<p>Once you find an image, you'll need to right click and "Open Image in New Tab" to see it full size and to see its full URL in the browser bar.</p>
+	<img src="https://www.insidethehall.com/wp-content/uploads/2021/03/03282021hha-600x420.jpg" />
+	<pre class="prettyprint pre-scrollable">https://www.insidethehall.com/wp-content/uploads/2021/03/03282021hha-600x420.jpg</pre>
 	<hr/>
 <h2>Activity 3: Retrospective and Project Planning</h2>
 <p>Now we will reflect on what we've done today and review the effort we spent building these miniature research projects.</p>
 	<p>Consider these activities:</p>
-	<ul>
+	<ol type="a">
 		<li>Selecting a topic</li>
 		<li>Researching events and locations</li>
 		<li>Finding images</li>
 		<li>Adding your data to Google Spreadsheets</li>
 		<li>Making design decisions</li>
 		<li>Troubleshooting problems</li>
-	</ul>
+	</ol>
 	<p>I'd like you to rank each of these activities in two ways:</p>
 	<ol>
 		<li>Order of difficulty: easiest to most difficult</li>
