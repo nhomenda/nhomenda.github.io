@@ -45,6 +45,7 @@ date: 2022-07-14
 	<p>To find a couple images of your alum, you can try <a href="https://issuu.com/arbutusyearbook/docs">Arbutus Yearbooks</a> or the <a href="https://webapp1.dlib.indiana.edu/archivesphotos/index.jsp">IU Archives Photographs</a> websites.</p>
 	<p>Once you find an image, you'll need to right click and "Open Image in New Tab" to see it full size and to see its full URL in the browser bar.</p>
 	<img src="https://www.insidethehall.com/wp-content/uploads/2021/03/03282021hha-600x420.jpg" />
+	<p>The proper URL to use includes the file extension at the end, in this case .jpg:
 	<pre class="prettyprint pre-scrollable">https://www.insidethehall.com/wp-content/uploads/2021/03/03282021hha-600x420.jpg</pre>
 	<hr/>
 <h2>Activity 3: Retrospective and Project Planning</h2>
