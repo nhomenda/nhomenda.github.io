@@ -2,4 +2,4 @@ name: Nick's Github-hosted website
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 future: true
-remote_theme: al-folio
+theme: jekyll-theme-minimal
