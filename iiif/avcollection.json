@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nhomenda.github.io/iiif/avcollection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "AV Collection Test"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://demo.avalonmediasystem.org/media_objects/gm80hv32k/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Avalon Sprint 102 Demo"
+        ]
+      }
+    },
+    {
+      "id": "https://demo.avalonmediasystem.org/media_objects/vd66vz95s/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "A Walkthrough of Avalon 6.4"
+        ]
+      }
+    }
+  ]
+}
