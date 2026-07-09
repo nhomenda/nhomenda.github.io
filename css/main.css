@@ -81,7 +81,7 @@ code {
 }
 
 pre {
-  display: block;
+  display: flex;
   padding: 9.5px;
   margin: 0 0 10px;
   font-size: 13px;
