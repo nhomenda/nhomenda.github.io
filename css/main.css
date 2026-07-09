@@ -98,7 +98,7 @@ pre.prettyprint {
   margin-bottom: 20px;
 }
 
-button.prettyprint {
+pre button {
   margin-left: auto;
   float: right;
 }
