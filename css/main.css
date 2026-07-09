@@ -98,6 +98,10 @@ pre.prettyprint {
   margin-bottom: 20px;
 }
 
+button.prettyprint {
+  margin-left: auto;
+}
+
 pre code {
   padding: 0;
   font-size: inherit;
