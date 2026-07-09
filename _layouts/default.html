@@ -8,7 +8,7 @@
 			<link href="https://fonts.googleapis.com/css2?family=Fraunces&display=swap" rel="stylesheet">
 			<script>
 				function copy_to_clipboard( elm_id ) {
-				var text = document.getElementById( elm_id ).innerHTML;
+				var text = document.getElementById( elm_id ).textContent;
 				navigator.clipboard.writeText( text );
 				}
 			</script>
