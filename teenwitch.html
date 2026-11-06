@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teen Witch Quote Generator</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #fafafa;
+            color: #333;
+        }
+        #quote-container {
+            min-height: 100px;
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            background: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-style: italic;
+            font-size: 1.2rem;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1rem;
+            cursor: pointer;
+            background-color: #111;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #444;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Teen Witch Quotes</h1>
+    
+    <div id="quote-container">
+        <p id="quote-text">Top that!</p>
+    </div>
+
+    <button onclick="generateQuote()">Look at how funky he is!</button>
+
+    <script>
+        const quotes = [
+            "Top that!",
+            "I'm hot and you're not, but if you wanna get with me, give it one more shot. Top that!",
+            "Look at how funky he is.",
+            "I never secondary look at a guy.",
+            "You are the most popular girl in school. You are a witch!",
+            "Are you telling me I can have anything I want? Anything?",
+            "Look, Louise, I don't wanna be a witch anymore. I just want to be normal.",
+            "Shana, honey, you look beautiful. Like a dynamic presentation.",
+            "I'm a dancer, Louise, not a mind reader.",
+            "You look like a completely different person! It's like you're wearing an invisibility cloak or something."
+        ];
+
+        function generateQuote() {
+            const quoteText = document.getElementById("quote-text");
+            let newQuote;
+            
+            // Ensure the next random quote isn't identical to the current one
+            do {
+                const randomIndex = Math.floor(Math.random() * quotes.length);
+                newQuote = quotes[randomIndex];
+            } while (newQuote === quoteText.innerText);
+
+            quoteText.innerText = newQuote;
+        }
+    </script>
+
+</body>
+</html>
