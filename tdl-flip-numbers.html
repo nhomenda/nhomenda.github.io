@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tufts University — Repository Statistics</title>
+    <!-- Load Tailwind CSS for responsive layout and utility styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Load Google Fonts: Plus Jakarta Sans & Fraunces for crisp academic & display typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+                        display: ['"Fraunces"', 'serif'],
+                    },
+                    colors: {
+                        tufts: {
+                            blue: '#3E8EDE',
+                            navy: '#002E6D',
+                            sky: '#85B6E8',
+                            brown: '#512C1D',
+                            ice: '#EEF5FC',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Tufts University Official Palette Background */
+        body {
+            background: linear-gradient(135deg, #002E6D 0%, #1D5BA3 48%, #3E8EDE 100%);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* Subtle Ambient Geometric Accents (Fixed, Non-Interactive) */
+        .ambient-circle {
+            position: fixed;
+            border-radius: 50%;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Rigid 3x2 Responsive Grid with Equal Card Heights */
+        .tufts-cards-grid {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 24px;
+            align-items: stretch;
+        }
+
+        @media (max-width: 1024px) {
+            .tufts-cards-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+
+        @media (max-width: 640px) {
+            .tufts-cards-grid {
+                grid-template-columns: minmax(0, 1fr);
+            }
+        }
+
+        /* Static Outer Slot: Strictly locks exact position & 220px height */
+        .card-slot {
+            position: relative;
+            width: 100%;
+            height: 220px;
+            margin: 0;
+            padding: 0;
+            transform: none !important;
+        }
+
+        /* 3D Perspective Viewport inside the static slot */
+        .flip-card {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            perspective: 1200px;
+            cursor: pointer;
+            user-select: none;
+            -webkit-tap-highlight-color: transparent;
+            transform: none !important;
+        }
+
+        /* Pure Horizontal Y-Axis Flipper: Zero translate, scale, or Z-rotation */
+        .flip-card-inner {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            transform-origin: center center;
+            transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+            transform-style: preserve-3d;
+            will-change: transform;
+        }
+
+        .flip-card.is-flipped .flip-card-inner {
+            transform: rotateY(180deg);
+        }
+
+        /* Front and Back Faces: Identical box model locked to inset: 0 */
+        .card-front,
+        .card-back {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            box-sizing: border-box;
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            border-radius: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 1.5rem;
+            overflow: hidden;
+            box-shadow: 0 18px 34px -10px rgba(0, 22, 54, 0.35), 0 6px 14px -4px rgba(0, 22, 54, 0.2);
+        }
+
+        .card-front {
+            transform: rotateY(0deg);
+            z-index: 2;
+        }
+
+        .card-back {
+            transform: rotateY(180deg);
+            z-index: 1;
+        }
+
+        /* Non-positional highlight glow when triggered from the sidebar */
+        @keyframes tuftsGlowPulse {
+            0%, 100% {
+                box-shadow: 0 18px 34px -10px rgba(0, 22, 54, 0.35), 0 0 0 0 rgba(133, 182, 232, 0.9);
+            }
+            50% {
+                box-shadow: 0 18px 34px -10px rgba(0, 22, 54, 0.35), 0 0 0 10px rgba(133, 182, 232, 0);
+            }
+        }
+
+        .pulse-highlight {
+            animation: tuftsGlowPulse 0.85s ease-out;
+        }
+
+        #editDataBtn {
+            display: none;
+        }
+    </style>
+</head>
+<body class="font-sans text-slate-900 antialiased selection:bg-[#3E8EDE] selection:text-white">
+
+    <!-- Subtle Decorative Tufts Blue & Sky Blue Background Rings -->
+    <div class="ambient-circle w-[32rem] h-[32rem] bg-[#85B6E8]/15 -top-32 -left-32"></div>
+    <div class="ambient-circle w-[28rem] h-[28rem] bg-[#3E8EDE]/20 bottom-[-8rem] right-[12%]"></div>
+
+    <!-- Main Container -->
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-10 min-h-screen flex flex-col">
+
+        <!-- Tufts University Branded Header -->
+        <header class="flex flex-col md:flex-row md:items-center md:justify-between gap-5 mb-8 bg-white rounded-3xl p-5 sm:p-6 shadow-xl border-b-4 border-[#3E8EDE]">
+            <div class="flex items-center gap-4 sm:gap-5">
+                <!-- Custom Inline SVG Tufts University & Jumbo Emblem -->
+                <div class="shrink-0 w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-[#002E6D] flex items-center justify-center shadow-md border-2 border-[#85B6E8]/60" aria-hidden="true">
+                    <svg class="w-12 h-12 sm:w-14 sm:h-14" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Collegiate Shield Outline -->
+                        <path d="M14 12H66V41C66 56.5 40 69 40 69C40 69 14 56.5 14 41V12Z" fill="#3E8EDE" stroke="#FFFFFF" stroke-width="2.5"/>
+                        <path d="M18 16H62V40C62 52.8 40 64 40 64C40 64 18 52.8 18 40V16Z" fill="#002E6D"/>
+                        <!-- Stylized Jumbo Elephant Silhouette in Tufts White & Sky Blue -->
+                        <path d="M27 42C27 33.5 32.5 27 41 27C47.5 27 52.5 31 53.5 37.5C54.2 41.8 52.5 46 52.5 49.5C52.5 51.5 54 52.5 55.5 52C56.8 51.5 57.5 50 57 48.5L59.5 48C60.5 51.2 58.8 54.8 55.2 55.5C51.8 56.2 49 53.8 49 50V45.5H45V54H40.5V45.5H36V54H31.5V44.5C28.8 44 27 42.8 27 42Z" fill="#FFFFFF"/>
+                        <!-- Elephant Ear & Tusk Detail -->
+                        <path d="M42 31C38.5 31 36.5 33.8 36.5 37C36.5 40.2 38.5 42.5 41.5 42.5C43.5 42.5 45 40.8 45 38.5" stroke="#85B6E8" stroke-width="2.2" stroke-linecap="round"/>
+                        <path d="M52.5 43.5C54.8 44 56.8 43.2 58 41.5" stroke="#85B6E8" stroke-width="2" stroke-linecap="round"/>
+                        <!-- Top Banner Bar -->
+                        <rect x="22" y="19" width="36" height="4.5" rx="2.25" fill="#85B6E8"/>
+                    </svg>
+                </div>
+
+                <div>
+                    <div class="flex flex-wrap items-center gap-2 mb-1">
+                        <span class="font-display font-black tracking-wide uppercase text-xs sm:text-sm text-[#002E6D]">
+                            Tufts Digital Library
+                        </span>
+        
+                    </div>
+                    <h1 class="font-display text-2xl sm:text-3xl font-black text-[#002E6D] tracking-tight leading-tight">
+                        Highlights by the Numbers
+                    </h1>
+                    <p class="text-slate-600 text-xs sm:text-sm mt-1">
+                        Click any card to flip it horizontally in place and reveal its repository metric.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Action Controls -->
+            <div class="flex flex-wrap items-center gap-2.5 sm:gap-3 shrink-0">
+                <button id="flipAllBtn" type="button" class="px-4 py-2.5 rounded-xl bg-[#002E6D] hover:bg-[#3E8EDE] text-white font-semibold text-sm shadow-md transition-colors flex items-center gap-2 cursor-pointer">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                    </svg>
+                    <span id="flipAllText">Flip All</span>
+                </button>
+
+                <button id="editDataBtn" type="button" class="px-4 py-2.5 rounded-xl bg-[#EEF5FC] hover:bg-[#85B6E8]/30 text-[#002E6D] border border-[#3E8EDE]/40 font-semibold text-sm transition-colors flex items-center gap-2 cursor-pointer">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
+                    </svg>
+                    <span>Edit Labels</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Split Layout: 3x2 Fixed-Position Cards (Left) + Scrambled Repository Labels Sidebar (Right) -->
+        <main class="flex-1 grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+
+            <!-- Left Stage: 6 Uniform Cards Sorted in Ascending Order -->
+            <section aria-label="Repository Number Cards" class="lg:col-span-8">
+                <div id="cardsGrid" class="tufts-cards-grid">
+                    <!-- Cards injected dynamically by JS -->
+                </div>
+            </section>
+
+            <!-- Right Sidebar: Repository Labels (Scrambled Order, No Dots, No "Column B") -->
+            <aside aria-label="Repository Labels" class="lg:col-span-4 bg-white rounded-3xl p-6 shadow-xl border-t-4 border-[#512C1D] lg:sticky lg:top-8">
+                <div class="flex items-center justify-between border-b border-slate-200 pb-4 mb-4">
+                    <h2 class="font-display text-xl font-extrabold text-[#002E6D]">
+                        Repository Metrics
+                    </h2>
+                    <span id="revealedCounter" class="px-3 py-1 rounded-full bg-[#EEF5FC] text-[#002E6D] text-xs font-bold border border-[#85B6E8]/60">
+                        0 / 6 Flipped
+                    </span>
+                </div>
+
+               
+
+                <!-- Scrambled List of Labels (No colored dots or bullet markers) -->
+                <ul id="sidebarList" class="space-y-2.5 list-none p-0 m-0">
+                    <!-- List items injected dynamically by JS -->
+                </ul>
+            </aside>
+        </main>
+    </div>
+
+    <!-- Modal for Customizing Labels -->
+    <div id="editModal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-[#002E6D]/70 backdrop-blur-xs">
+        <div class="bg-white rounded-3xl max-w-lg w-full p-6 sm:p-7 shadow-2xl border-2 border-[#85B6E8]">
+            <div class="flex items-center justify-between mb-4 pb-3 border-b border-slate-100">
+               <!-- <div>
+                    <h3 class="font-display text-2xl font-bold text-[#002E6D]">Edit Labels</h3>
+                    <p class="text-xs text-slate-500 mt-0.5">Customize the descriptive labels paired with each repository figure.</p>
+                </div>-->
+                <button id="closeModalBtn" type="button" class="p-2 rounded-full hover:bg-slate-100 text-slate-500 transition-colors cursor-pointer" aria-label="Close modal">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+
+            <form id="editForm" class="space-y-3 max-h-[60vh] overflow-y-auto pr-1">
+                <div class="grid grid-cols-12 gap-3 text-xs font-bold uppercase tracking-wider text-[#3E8EDE] px-1">
+                    <div class="col-span-4">Figure</div>
+                    <div class="col-span-8">Repository Label</div>
+                </div>
+                <div id="editRowsContainer" class="space-y-2.5">
+                    <!-- Dynamic inputs populated on open -->
+                </div>
+
+                <div class="pt-4 flex items-center justify-end gap-3 border-t border-slate-100 mt-4">
+                    <button type="button" id="cancelEditBtn" class="px-4 py-2.5 rounded-xl text-sm font-semibold text-slate-600 hover:bg-slate-100 transition-colors cursor-pointer">
+                        Cancel
+                    </button>
+                    <button type="submit" class="px-5 py-2.5 rounded-xl text-sm font-semibold text-white bg-[#002E6D] hover:bg-[#3E8EDE] shadow-md transition-colors cursor-pointer">
+                        Save Changes
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>-->
+
+    <script>
+        /**
+         * 6-Row Tufts Repository Dataset sorted in strict ascending numerical order.
+         * Each card has a distinct Tufts University palette theme and geometric corner accent,
+         * with zero CSS positional transforms so every card flips cleanly in place.
+         */
+        let repositoryItems = [
+            {
+                id: 1,
+                number: 60,
+                label: "Faculty scholarship, self deposited",
+                flipped: false,
+                frontClass: "bg-[#3E8EDE] text-white border-2 border-[#85B6E8]",
+                backClass: "bg-white text-[#002E6D] border-4 border-[#3E8EDE]",
+                backNumberClass: "text-[#3E8EDE]",
+                backBadgeClass: "bg-[#EEF5FC] text-[#002E6D]",
+                cornerAccent: `<div class="absolute -top-8 -right-8 w-24 h-24 rounded-full bg-white/15 pointer-events-none"></div>
+                               <div class="absolute -bottom-6 -left-6 w-20 h-20 rounded-2xl rotate-12 bg-[#002E6D]/20 pointer-events-none"></div>`
+            },
+            {
+                id: 2,
+                number: 286,
+                label: "Works currently embargoed",
+                flipped: false,
+                frontClass: "bg-[#002E6D] text-white border-2 border-[#3E8EDE]",
+                backClass: "bg-[#EEF5FC] text-[#002E6D] border-4 border-[#002E6D]",
+                backNumberClass: "text-[#002E6D]",
+                backBadgeClass: "bg-[#002E6D] text-white",
+                cornerAccent: `<div class="absolute top-0 right-0 w-24 h-24 bg-[#3E8EDE]/25 rounded-bl-full pointer-events-none"></div>
+                               <div class="absolute bottom-3 left-3 w-10 h-10 rounded-full border-2 border-[#85B6E8]/40 pointer-events-none"></div>`
+            },
+            {
+                id: 3,
+                number: 593,
+                label: "Videos",
+                flipped: false,
+                frontClass: "bg-[#512C1D] text-white border-2 border-[#85B6E8]/70",
+                backClass: "bg-white text-[#512C1D] border-4 border-[#512C1D]",
+                backNumberClass: "text-[#512C1D]",
+                backBadgeClass: "bg-[#512C1D]/10 text-[#512C1D]",
+                cornerAccent: `<div class="absolute -bottom-8 -right-8 w-28 h-28 rounded-full bg-[#85B6E8]/20 pointer-events-none"></div>
+                               <div class="absolute top-3 left-3 w-8 h-8 rounded-lg bg-white/10 pointer-events-none"></div>`
+            },
+            {
+                id: 4,
+                number: 1078,
+                label: "Public collections",
+                flipped: false,
+                frontClass: "bg-[#85B6E8] text-[#002E6D] border-2 border-white",
+                backClass: "bg-white text-[#002E6D] border-4 border-[#85B6E8]",
+                backNumberClass: "text-[#002E6D]",
+                backBadgeClass: "bg-[#85B6E8]/35 text-[#002E6D]",
+                cornerAccent: `<div class="absolute -top-6 -left-6 w-24 h-24 rounded-full bg-white/35 pointer-events-none"></div>
+                               <div class="absolute bottom-0 right-0 w-20 h-20 bg-[#002E6D]/10 rounded-tl-3xl pointer-events-none"></div>`
+            },
+            {
+                id: 5,
+                number: 1579,
+                label: "Student scholarship, self deposited",
+                flipped: false,
+                frontClass: "bg-white text-[#002E6D] border-4 border-[#002E6D]",
+                backClass: "bg-[#002E6D] text-white border-4 border-[#85B6E8]",
+                backNumberClass: "text-[#85B6E8]",
+                backBadgeClass: "bg-[#3E8EDE]/30 text-white",
+                cornerAccent: `<div class="absolute top-0 left-0 w-full h-2.5 bg-[#3E8EDE] pointer-events-none"></div>
+                               <div class="absolute -bottom-7 -right-7 w-24 h-24 rounded-full bg-[#EEF5FC] pointer-events-none"></div>`
+            },
+            {
+                id: 6,
+                number: 8756,
+                label: "Works deposited by Steve",
+                flipped: false,
+                frontClass: "bg-gradient-to-br from-[#002E6D] to-[#3E8EDE] text-white border-2 border-white/80",
+                backClass: "bg-white text-[#002E6D] border-4 border-[#002E6D]",
+                backNumberClass: "text-[#3E8EDE]",
+                backBadgeClass: "bg-[#EEF5FC] text-[#002E6D]",
+                cornerAccent: `<div class="absolute -top-10 -right-10 w-32 h-32 rounded-full border-8 border-white/15 pointer-events-none"></div>
+                               <div class="absolute -bottom-6 -left-6 w-20 h-20 rounded-full bg-[#85B6E8]/25 pointer-events-none"></div>`
+            }
+        ];
+
+        // Explicit scrambled ID order for the right sidebar so it never matches the ascending card order
+        const scrambledSidebarOrder = [4, 6, 1, 2, 5, 3];
+
+        // DOM References
+        const cardsGrid = document.getElementById('cardsGrid');
+        const sidebarList = document.getElementById('sidebarList');
+        const revealedCounter = document.getElementById('revealedCounter');
+        const flipAllBtn = document.getElementById('flipAllBtn');
+        const flipAllText = document.getElementById('flipAllText');
+
+        // Modal References
+        const editDataBtn = document.getElementById('editDataBtn');
+        const editModal = document.getElementById('editModal');
+        const closeModalBtn = document.getElementById('closeModalBtn');
+        const cancelEditBtn = document.getElementById('cancelEditBtn');
+        const editForm = document.getElementById('editForm');
+        const editRowsContainer = document.getElementById('editRowsContainer');
+
+        /**
+         * Renders the sorted cards, scrambled sidebar labels, and status counter.
+         */
+        function renderApp() {
+            // Ensure cards remain strictly sorted in ascending numerical order
+            repositoryItems.sort((a, b) => Number(a.number) - Number(b.number));
+            renderCards();
+            renderSidebar();
+            updateStatusUI();
+        }
+
+        /**
+         * Renders the 6 uniform cards inside rigid, fixed-height .card-slot containers.
+         */
+        function renderCards() {
+            cardsGrid.innerHTML = '';
+
+            repositoryItems.forEach((item) => {
+                // Fixed-height static slot (zero transforms, zero layout shift)
+                const slot = document.createElement('div');
+                slot.className = 'card-slot';
+
+                // Interactive 3D flip container
+                const flipCard = document.createElement('div');
+                flipCard.id = `card-${item.id}`;
+                flipCard.className = `flip-card ${item.flipped ? 'is-flipped' : ''}`;
+                flipCard.setAttribute('role', 'button');
+                flipCard.setAttribute('tabindex', '0');
+                flipCard.setAttribute(
+                    'aria-label',
+                    item.flipped
+                        ? `${item.number}: ${item.label}. Click to flip back.`
+                        : `${item.number}. Click to flip horizontally and show label.`
+                );
+
+                // Inner rotating wrapper (rotates purely around Y-axis in place)
+                const inner = document.createElement('div');
+                inner.className = 'flip-card-inner';
+
+                // Front Face: Large Column A Number
+                const front = document.createElement('div');
+                front.className = `card-front ${item.frontClass}`;
+                front.innerHTML = `
+                    ${item.cornerAccent}
+                    <span class="relative z-10 font-display font-black text-5xl sm:text-6xl tracking-tight leading-none">
+                        ${escapeHTML(String(item.number))}
+                    </span>
+                    <span class="relative z-10 mt-4 inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider opacity-80">
+                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                        </svg>
+                        Click to flip
+                    </span>
+                `;
+
+                // Back Face: Both Column A Number AND Column B Label
+                const back = document.createElement('div');
+                back.className = `card-back ${item.backClass}`;
+                back.innerHTML = `
+                    <div class="font-display font-black text-4xl sm:text-5xl tracking-tight leading-none ${item.backNumberClass}">
+                        ${escapeHTML(String(item.number))}
+                    </div>
+                    <div class="w-10 h-0.5 bg-current opacity-20 my-2.5"></div>
+                    <p class="font-bold text-base sm:text-lg leading-snug px-2">
+                        ${escapeHTML(item.label)}
+                    </p>
+                `;
+
+                inner.appendChild(front);
+                inner.appendChild(back);
+                flipCard.appendChild(inner);
+                slot.appendChild(flipCard);
+                cardsGrid.appendChild(slot);
+
+                // Click and keyboard activation
+                flipCard.addEventListener('click', () => toggleCardFlip(item.id));
+                flipCard.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        toggleCardFlip(item.id);
+                    }
+                });
+            });
+        }
+
+        /**
+         * Renders the Repository Labels sidebar in a scrambled order with no dots or bullets.
+         */
+        function renderSidebar() {
+            sidebarList.innerHTML = '';
+
+            // Order items according to scrambledSidebarOrder
+            const scrambledItems = scrambledSidebarOrder
+                .map((id) => repositoryItems.find((item) => item.id === id))
+                .filter(Boolean);
+
+            scrambledItems.forEach((item) => {
+                const li = document.createElement('li');
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = `w-full text-left px-4 py-3.5 rounded-2xl border transition-colors duration-200 flex items-center justify-between gap-3 cursor-pointer ${
+                    item.flipped
+                        ? 'bg-[#002E6D] text-white border-[#002E6D] shadow-md'
+                        : 'bg-[#EEF5FC]/75 hover:bg-[#EEF5FC] text-[#002E6D] border-[#85B6E8]/50 hover:border-[#3E8EDE]'
+                }`;
+
+                btn.innerHTML = `
+                    <span class="font-semibold text-sm sm:text-base leading-snug">
+                        ${escapeHTML(item.label)}
+                    </span>
+                    <span class="shrink-0 text-xs font-bold px-2.5 py-1 rounded-full ${
+                        item.flipped
+                            ? 'bg-[#3E8EDE] text-white'
+                            : 'bg-white text-[#002E6D] border border-[#85B6E8]/60'
+                    }">
+                        ${item.flipped ? escapeHTML(String(item.number)) : 'Flip'}
+                    </span>
+                `;
+
+                btn.addEventListener('click', () => {
+                    toggleCardFlip(item.id, true);
+                });
+
+                li.appendChild(btn);
+                sidebarList.appendChild(li);
+            });
+        }
+
+        /**
+         * Toggles the horizontal flip state of a single card without changing its position.
+         */
+        function toggleCardFlip(id, highlightCard = false) {
+            const target = repositoryItems.find((item) => item.id === id);
+            if (!target) return;
+
+            target.flipped = !target.flipped;
+
+            const cardEl = document.getElementById(`card-${id}`);
+            if (cardEl) {
+                cardEl.classList.toggle('is-flipped', target.flipped);
+                cardEl.setAttribute(
+                    'aria-label',
+                    target.flipped
+                        ? `${target.number}: ${target.label}. Click to flip back.`
+                        : `${target.number}. Click to flip horizontally and show label.`
+                );
+
+                if (highlightCard) {
+                    const activeFace = cardEl.querySelector(target.flipped ? '.card-back' : '.card-front');
+                    if (activeFace) {
+                        activeFace.classList.remove('pulse-highlight');
+                        void activeFace.offsetWidth;
+                        activeFace.classList.add('pulse-highlight');
+                    }
+                }
+            }
+
+            renderSidebar();
+            updateStatusUI();
+        }
+
+        /**
+         * Updates the flipped counter badge and Flip All / Reset All button label.
+         */
+        function updateStatusUI() {
+            const flippedCount = repositoryItems.filter((item) => item.flipped).length;
+            const total = repositoryItems.length;
+            revealedCounter.textContent = `${flippedCount} / ${total} Flipped`;
+            flipAllText.textContent = flippedCount === total ? 'Reset All' : 'Flip All';
+        }
+
+        /**
+         * Flips or resets all 6 cards cleanly in place.
+         */
+        flipAllBtn.addEventListener('click', () => {
+            const allFlipped = repositoryItems.every((item) => item.flipped);
+            const nextState = !allFlipped;
+
+            repositoryItems.forEach((item) => {
+                item.flipped = nextState;
+                const cardEl = document.getElementById(`card-${item.id}`);
+                if (cardEl) {
+                    cardEl.classList.toggle('is-flipped', nextState);
+                    cardEl.setAttribute(
+                        'aria-label',
+                        nextState
+                            ? `${item.number}: ${item.label}. Click to flip back.`
+                            : `${item.number}. Click to flip horizontally and show label.`
+                    );
+                }
+            });
+
+            renderSidebar();
+            updateStatusUI();
+        });
+
+        /**
+         * Edit Labels Modal Controls
+         */
+        function openEditModal() {
+            editRowsContainer.innerHTML = '';
+            repositoryItems.forEach((item) => {
+                const row = document.createElement('div');
+                row.className = 'grid grid-cols-12 gap-3 items-center';
+                row.innerHTML = `
+                    <div class="col-span-4">
+                        <div class="w-full px-3 py-2 rounded-xl bg-[#EEF5FC] border border-[#85B6E8]/60 text-sm font-extrabold text-[#002E6D]">
+                            ${escapeHTML(String(item.number))}
+                        </div>
+                    </div>
+                    <div class="col-span-8">
+                        <input type="text" name="lbl-${item.id}" value="${escapeHTML(item.label)}" required
+                            class="w-full px-3 py-2 rounded-xl border border-slate-300 text-sm font-medium text-slate-800 focus:outline-none focus:ring-2 focus:ring-[#3E8EDE]" />
+                    </div>
+                `;
+                editRowsContainer.appendChild(row);
+            });
+
+            editModal.classList.remove('hidden');
+            editModal.classList.add('flex');
+        }
+
+        function closeEditModal() {
+            editModal.classList.add('hidden');
+            editModal.classList.remove('flex');
+        }
+
+        editDataBtn.addEventListener('click', openEditModal);
+        closeModalBtn.addEventListener('click', closeEditModal);
+        cancelEditBtn.addEventListener('click', closeEditModal);
+
+        editModal.addEventListener('click', (e) => {
+            if (e.target === editModal) closeEditModal();
+        });
+
+        editForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const formData = new FormData(editForm);
+
+            repositoryItems.forEach((item) => {
+                const newLbl = formData.get(`lbl-${item.id}`);
+                if (newLbl && newLbl.trim() !== '') {
+                    item.label = newLbl.trim();
+                }
+            });
+
+            closeEditModal();
+            renderApp();
+        });
+
+        /**
+         * Escapes HTML characters for safe dynamic rendering.
+         */
+        function escapeHTML(str) {
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+
+        // Initialize on DOM ready
+        window.addEventListener('DOMContentLoaded', renderApp);
+    </script>
+</body>
+</html>
